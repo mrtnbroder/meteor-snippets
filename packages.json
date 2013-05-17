@@ -1,0 +1,20 @@
+{
+	"schema_version": "1.2",
+	"packages": [
+		{
+			"name": "Meteor Snippets",
+			"description": "Some snippets for working with the Meteor framework.",
+			"author": "Martin Broder",
+			"homepage": "https://github.com/mrtnbroder/Meteor-Snippets",
+			"last_modified": "2013-06-18 01:03:00",
+			"platforms": {
+				"*": [
+					{
+						"version": "0.1.0",
+						"url": "https://nodeload.github.com/mrtnbroder/Meteor-Snippets/zip/0.1.0"
+					}
+				]
+			}
+		}
+	]
+}
