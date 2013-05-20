@@ -9,7 +9,7 @@ Includes snippets for
 
 ## Installation
 
-Currently (until [my pull request](https://github.com/wbond/package_control_channel/pull/1357) for the Sublime Text Package Manager got approved by [wbond](https://github.com/wbond/)) you can only install this manually via git.
+You can install them now via [Package Control](http://wbond.net/sublime_packages/package_control) (search for "Meteor Snippets") or manually via git:
 
 ##### OS X
 ```
@@ -50,15 +50,17 @@ Meteor.publish("name", function () {
 ```
 
 __if__
-```html
+```handlebars
 {{#if guyIs "male"}}
 	...
 {{/if}}
 ```
 
 __ea__
-```html
+```handlebars
 {{#each player}}
 	...
 {{/each}}
 ```
+
+... and a whole lot more!
