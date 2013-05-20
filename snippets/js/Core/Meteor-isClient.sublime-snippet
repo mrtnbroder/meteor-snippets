@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-Meteor.isClient
-]]></content>
-	<tabTrigger>Meteor.isClient,mic</tabTrigger>
-	<scope>source.js</scope>
-	<description>Meteor.isClient</description>
-</snippet>

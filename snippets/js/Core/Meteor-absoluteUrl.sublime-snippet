@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-Meteor.absoluteUrl("${1:foo}"${2:, {$3\}});
-]]></content>
-	<tabTrigger>Meteor.absoluteUrl,mabs</tabTrigger>
-	<scope>source.js</scope>
-	<description>Meteor.absoluteUrl([path], [options])</description>
-</snippet>
