@@ -4,7 +4,7 @@ Meteor.render(function ($1) {
 	${2:...}
 });
 ]]></content>
-	<tabTrigger>Meteor.render,mr</tabTrigger>
+	<tabTrigger>Meteor.render</tabTrigger>
 	<scope>source.js</scope>
 	<description>Meteor.render()</description>
 </snippet>

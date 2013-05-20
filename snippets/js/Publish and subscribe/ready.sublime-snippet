@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-${1:this}.ready();
+ready();
 ]]></content>
 	<tabTrigger>ready</tabTrigger>
 	<scope>source.js</scope>

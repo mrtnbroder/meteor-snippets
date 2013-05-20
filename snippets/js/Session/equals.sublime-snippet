@@ -2,7 +2,7 @@
 	<content><![CDATA[
 Session.equals(${1:key},  ${2:value});
 ]]></content>
-	<tabTrigger>Session.equals,se</tabTrigger>
+	<tabTrigger>Session.equals</tabTrigger>
 	<scope>source.js</scope>
 	<description>Meteor: Session.equals(key, value)</description>
 </snippet>

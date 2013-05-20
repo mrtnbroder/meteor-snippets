@@ -1,22 +1,22 @@
 <snippet>
 	<content><![CDATA[
-${1:collection}.allow({
+allow({
 	insert: function (userId, doc) {
-		${2://...}
+		${1://...}
 	},
 	update: function (userId, doc, fields, modifier) {
-		${3://...}
+		${2://...}
 	},
 	remove: function (userId, doc) {
-		${4://...}
+		${3://...}
 	},
-	fetch: ["${5:owner}"]${6:,
+	fetch: ["${4:owner}"]${5:,
 	transform: function () {
-		${7://...}
+		${6://...}
 	\}}
 });
 ]]></content>
-	<tabTrigger>allow,mca</tabTrigger>
+	<tabTrigger>allow</tabTrigger>
 	<scope>source.js</scope>
 	<description>Meteor: collection.allow(options)</description>
 </snippet>

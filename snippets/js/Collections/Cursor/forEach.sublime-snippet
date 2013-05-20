@@ -4,7 +4,7 @@ forEach(function (${1:post}) {
 	${2:// ...}
 });
 ]]></content>
-	<tabTrigger>forEach,fe</tabTrigger>
+	<tabTrigger>forEach</tabTrigger>
 	<scope>source.js</scope>
 	<description>Meteor: cursor.forEach(callback)</description>
 </snippet>

@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-${1:this}.setUserId($2);
+setUserId($1);
 ]]></content>
-	<tabTrigger>s,se,set</tabTrigger>
+	<tabTrigger>setUserId</tabTrigger>
 	<scope>source.js</scope>
 	<description>Meteor: this.setUserId(userId)</description>
 </snippet>

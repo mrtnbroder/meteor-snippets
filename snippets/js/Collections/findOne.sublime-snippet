@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-${1:collection}.findOne({${2:
+findOne({${1:
 	/*
 	sort: Sort specifier,
 	skip: Number,
@@ -10,7 +10,7 @@ ${1:collection}.findOne({${2:
 	*/
 }});
 ]]></content>
-	<tabTrigger>findOne,mcfo</tabTrigger>
+	<tabTrigger>findOne</tabTrigger>
 	<scope>source.js</scope>
 	<description>Meteor: collection.findOne(selector, [options])</description>
 </snippet>

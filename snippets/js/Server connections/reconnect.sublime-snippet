@@ -2,7 +2,7 @@
 	<content><![CDATA[
 Meteor.reconnect();
 ]]></content>
-	<tabTrigger>Meteor.reconnect,mrec</tabTrigger>
+	<tabTrigger>Meteor.reconnect</tabTrigger>
 	<scope>source.js</scope>
 	<description>Meteor.reconnect()</description>
 </snippet>

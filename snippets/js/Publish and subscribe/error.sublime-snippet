@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-${1:this}.error(${2:error});
+error(${1:error});
 ]]></content>
 	<tabTrigger>error</tabTrigger>
 	<scope>source.js</scope>

@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
-${1:collection}.find({$2}${3:, {
-	${4:/*
+find({$1}${2:, {
+	${3:/*
 	sort: Sort specifier,
 	skip: Number,
 	limit: Number,
@@ -11,7 +11,7 @@ ${1:collection}.find({$2}${3:, {
 	*/}
 \}});
 ]]></content>
-	<tabTrigger>find,mcf</tabTrigger>
+	<tabTrigger>find</tabTrigger>
 	<scope>source.js</scope>
 	<description>Meteor: collection.find(selector, [options])</description>
 </snippet>

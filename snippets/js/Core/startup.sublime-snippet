@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+Meteor.startup(function ($1) {
+	${2:...}
+});
+]]></content>
+	<tabTrigger>Meteor.startup</tabTrigger>
+	<scope>source.js</scope>
+	<description>Meteor.startup(fn)</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Meteor.userId();
+]]></content>
+	<tabTrigger>Meteor.userId</tabTrigger>
+	<scope>source.js</scope>
+	<description>Meteor.userId()</description>
+</snippet>

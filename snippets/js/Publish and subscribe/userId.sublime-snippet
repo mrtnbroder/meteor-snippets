@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-${1:this}.userId
+userId
 ]]></content>
 	<tabTrigger>userId</tabTrigger>
 	<scope>source.js</scope>

@@ -2,7 +2,7 @@
 	<content><![CDATA[
 Meteor.status()
 ]]></content>
-	<tabTrigger>Meteor.status,mst</tabTrigger>
+	<tabTrigger>Meteor.status</tabTrigger>
 	<scope>source.js</scope>
 	<description>Meteor.status()</description>
 </snippet>

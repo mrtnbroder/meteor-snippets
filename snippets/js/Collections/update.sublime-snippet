@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-${1:collection}.update({${2:selector}}, {${3:modifier}}${4:, ${5:callback}});
+update({${1:selector}}, {${2:modifier}}${3:, ${4:callback}});
 ]]></content>
-	<tabTrigger>update,mcu</tabTrigger>
+	<tabTrigger>update</tabTrigger>
 	<scope>source.js</scope>
 	<description>Meteor: collection.update(selector, modifier, [options], [callback])</description>
 </snippet>

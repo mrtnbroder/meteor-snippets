@@ -2,7 +2,7 @@
 	<content><![CDATA[
 Meteor.apply("${1:name}", [$2]${3:, function (error, result) {$4\}});
 ]]></content>
-	<tabTrigger>mapp</tabTrigger>
+	<tabTrigger>Meteor.apply</tabTrigger>
 	<scope>source.js</scope>
 	<description>Meteor.apply(name, params [, options] [, asyncCallback])</description>
 </snippet>

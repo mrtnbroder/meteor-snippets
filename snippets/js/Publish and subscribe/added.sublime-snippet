@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-${1:this}.added("${2:collection}", ${3:id}, {$4});
+added("${1:collection}", ${2:id}, {$3});
 ]]></content>
 	<tabTrigger>added</tabTrigger>
 	<scope>source.js</scope>

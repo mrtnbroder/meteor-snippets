@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-var ${1:Foo} = new Meteor.Collection.ObjectID(${2:hexString});
+Meteor.Collection.ObjectID(${1:hexString});
 ]]></content>
-	<tabTrigger>ObjectID,mcoid</tabTrigger>
+	<tabTrigger>Meteor.Collection</tabTrigger>
 	<scope>source.js</scope>
 	<description>new Meteor.Collection.ObjectID(hexString)</description>
 </snippet>

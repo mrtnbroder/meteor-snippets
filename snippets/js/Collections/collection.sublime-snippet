@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-var ${1:Foo} = new Meteor.Collection("${2:bar}"${3:, ${4:options}});
+Meteor.Collection("${1:bar}"${2:, ${3:options}});
 ]]></content>
-	<tabTrigger>mcol</tabTrigger>
+	<tabTrigger>Meteor.Collection</tabTrigger>
 	<scope>source.js</scope>
 	<description>new Meteor.Collection(name, [options])</description>
 </snippet>

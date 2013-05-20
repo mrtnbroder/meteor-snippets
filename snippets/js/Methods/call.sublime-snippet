@@ -2,7 +2,7 @@
 	<content><![CDATA[
 Meteor.call("${1:name}", ${2:1}${3:, function (error, result) {$4\}});
 ]]></content>
-	<tabTrigger>mcal</tabTrigger>
+	<tabTrigger>Meteor.call</tabTrigger>
 	<scope>source.js</scope>
 	<description>Meteor.call(name, param1, param2, ... [, asyncCallback])</description>
 </snippet>
