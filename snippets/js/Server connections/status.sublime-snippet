@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Meteor.status()
+]]></content>
+	<tabTrigger>mst</tabTrigger>
+	<scope>source.js</scope>
+	<description>Meteor.status()</description>
+</snippet>

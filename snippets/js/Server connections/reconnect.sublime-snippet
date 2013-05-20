@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Meteor.reconnect();
+]]></content>
+	<tabTrigger>mrec</tabTrigger>
+	<scope>source.js</scope>
+	<description>Meteor.reconnect()</description>
+</snippet>
