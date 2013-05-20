@@ -1,4 +1,4 @@
-# Meteor Snippets for Sublime Text
+# Meteor Snippets for Sublime Text 2/3
 
 Some snippets for working with the [Meteor](http://meteor.com) framework. (WIP)
 
