@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:this}.added("${2:collection}", ${3:id}, {$4});
+]]></content>
+	<tabTrigger>a,ad,add</tabTrigger>
+	<scope>source.js</scope>
+	<description>Meteor: this.added(collection, id, fields)</description>
+</snippet>

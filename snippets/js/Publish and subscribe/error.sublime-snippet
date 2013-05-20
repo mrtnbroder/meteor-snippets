@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:this}.error(${2:error});
+]]></content>
+	<tabTrigger>e,er,err</tabTrigger>
+	<scope>source.js</scope>
+	<description>Meteor: this.error(error)</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:this}.ready();
+]]></content>
+	<tabTrigger>r,rd,rdy</tabTrigger>
+	<scope>source.js</scope>
+	<description>Meteor: this.ready()</description>
+</snippet>

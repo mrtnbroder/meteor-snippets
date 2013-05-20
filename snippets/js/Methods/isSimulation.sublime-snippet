@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:this}.isSimulation
+]]></content>
+	<tabTrigger>iss</tabTrigger>
+	<scope>source.js</scope>
+	<description>Meteor: this.isSimulation</description>
+</snippet>

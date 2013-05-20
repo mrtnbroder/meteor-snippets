@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:this}.unblock();
+]]></content>
+	<tabTrigger>unb</tabTrigger>
+	<scope>source.js</scope>
+	<description>Meteor: this.unblock()</description>
+</snippet>

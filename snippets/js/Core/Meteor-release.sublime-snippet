@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Meteor.release
+]]></content>
+	<tabTrigger>mrel</tabTrigger>
+	<scope>source.js</scope>
+	<description>Meteor.release</description>
+</snippet>
