@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[
+${1:collection}.find({${2:
+	/*
+	sort: Sort specifier,
+	skip: Number,
+	limit: Number,
+	fields: Field specifier,
+	reactive: Boolean,
+	transform: Function
+	*/
+}});
+]]></content>
+	<tabTrigger>mcf</tabTrigger>
+	<scope>source.js</scope>
+	<description>Meteor: collection.find(selector, [options])</description>
+</snippet>

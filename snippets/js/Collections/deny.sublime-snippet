@@ -1,0 +1,22 @@
+<snippet>
+	<content><![CDATA[
+${1:collection}.deny({
+	insert: function (userId, doc) {
+		${2://...}
+	},
+	update: function (userId, doc, fields, modifier) {
+		${3://...}
+	},
+	remove: function (userId, doc) {
+		${4://...}
+	},
+	fetch: ["${5:locked}"]${6:,
+	transform: function () {
+		${7://...}
+	\}}
+});
+]]></content>
+	<tabTrigger>mcd</tabTrigger>
+	<scope>source.js</scope>
+	<description>Meteor: collection.deny(options)</description>
+</snippet>
