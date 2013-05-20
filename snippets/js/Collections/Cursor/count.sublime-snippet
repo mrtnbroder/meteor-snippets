@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+count();
+]]></content>
+	<tabTrigger>cou</tabTrigger>
+	<scope>source.js</scope>
+	<description>Meteor: cursor.count()</description>
+</snippet>

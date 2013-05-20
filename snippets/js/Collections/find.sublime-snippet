@@ -1,15 +1,15 @@
 <snippet>
 	<content><![CDATA[
-${1:collection}.find({${2:
-	/*
+${1:collection}.find({$2}${3:, {
+	${4:/*
 	sort: Sort specifier,
 	skip: Number,
 	limit: Number,
 	fields: Field specifier,
 	reactive: Boolean,
 	transform: Function
-	*/
-}});
+	*/}
+\}});
 ]]></content>
 	<tabTrigger>mcf</tabTrigger>
 	<scope>source.js</scope>
