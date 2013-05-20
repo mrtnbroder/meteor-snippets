@@ -64,3 +64,12 @@ __ea__
 ```
 
 ... and a whole lot more!
+
+## Contribute
+
+you got some neat Meteor snippets you want to share? fork this repro and send me a pull request so I can take a look at them!
+
+## License
+
+Copyright (c) by Martin Broder
+MIT License
