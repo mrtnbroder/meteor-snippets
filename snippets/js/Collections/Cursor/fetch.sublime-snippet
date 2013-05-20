@@ -2,7 +2,7 @@
 	<content><![CDATA[
 fetch();
 ]]></content>
-	<tabTrigger>fet</tabTrigger>
+	<tabTrigger>fetch</tabTrigger>
 	<scope>source.js</scope>
 	<description>Meteor: cursor.fetch()</description>
 </snippet>

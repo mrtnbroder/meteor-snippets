@@ -11,7 +11,7 @@ ${1:collection}.find({$2}${3:, {
 	*/}
 \}});
 ]]></content>
-	<tabTrigger>mcf</tabTrigger>
+	<tabTrigger>find,mcf</tabTrigger>
 	<scope>source.js</scope>
 	<description>Meteor: collection.find(selector, [options])</description>
 </snippet>

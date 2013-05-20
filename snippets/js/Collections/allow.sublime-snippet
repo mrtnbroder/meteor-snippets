@@ -16,7 +16,7 @@ ${1:collection}.allow({
 	\}}
 });
 ]]></content>
-	<tabTrigger>mca</tabTrigger>
+	<tabTrigger>allow,mca</tabTrigger>
 	<scope>source.js</scope>
 	<description>Meteor: collection.allow(options)</description>
 </snippet>

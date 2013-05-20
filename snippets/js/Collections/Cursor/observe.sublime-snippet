@@ -24,7 +24,7 @@ observe(${1:{${2:
 	\}}
 \}});
 ]]></content>
-	<tabTrigger>obs</tabTrigger>
+	<tabTrigger>observe</tabTrigger>
 	<scope>source.js</scope>
 	<description>Meteor: cursor.observe(callbacks)</description>
 </snippet>

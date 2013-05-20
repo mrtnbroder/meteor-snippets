@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Session.set(${1:key},  ${2:value});
+]]></content>
+	<tabTrigger>Session.set,sset</tabTrigger>
+	<scope>source.js</scope>
+	<description>Meteor: Session.set(key, value)</description>
+</snippet>

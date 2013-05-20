@@ -2,7 +2,7 @@
 	<content><![CDATA[
 Meteor.isServer
 ]]></content>
-	<tabTrigger>mis</tabTrigger>
+	<tabTrigger>Meteor.isServer,mis</tabTrigger>
 	<scope>source.js</scope>
 	<description>Meteor.isServer</description>
 </snippet>

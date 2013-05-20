@@ -2,7 +2,7 @@
 	<content><![CDATA[
 ${1:this}.changed("${2:collection}", ${3:id}, {$4});
 ]]></content>
-	<tabTrigger>c,ch,cha</tabTrigger>
+	<tabTrigger>changed</tabTrigger>
 	<scope>source.js</scope>
 	<description>Meteor: this.changed(collection, id, fields)</description>
 </snippet>

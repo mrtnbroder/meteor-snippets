@@ -2,7 +2,7 @@
 	<content><![CDATA[
 Meteor.connect(${1:url});
 ]]></content>
-	<tabTrigger>mcon</tabTrigger>
+	<tabTrigger>Meteor.connect,mcon</tabTrigger>
 	<scope>source.js</scope>
 	<description>Meteor.connect(url)</description>
 </snippet>

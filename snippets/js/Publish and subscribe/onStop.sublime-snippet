@@ -4,7 +4,7 @@ ${1:this}.onStop(${2:function ($3) {
 	${4:...}
 \}});
 ]]></content>
-	<tabTrigger>o,on,ons</tabTrigger>
+	<tabTrigger>onStop</tabTrigger>
 	<scope>source.js</scope>
 	<description>Meteor: this.onStop(fn)</description>
 </snippet>

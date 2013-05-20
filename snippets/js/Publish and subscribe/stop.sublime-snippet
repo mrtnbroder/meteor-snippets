@@ -2,7 +2,7 @@
 	<content><![CDATA[
 ${1:this}.stop();
 ]]></content>
-	<tabTrigger>s,st,sto</tabTrigger>
+	<tabTrigger>stop</tabTrigger>
 	<scope>source.js</scope>
 	<description>Meteor: this.stop()</description>
 </snippet>

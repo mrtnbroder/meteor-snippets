@@ -2,7 +2,7 @@
 	<content><![CDATA[
 rewind();
 ]]></content>
-	<tabTrigger>rew</tabTrigger>
+	<tabTrigger>rewind</tabTrigger>
 	<scope>source.js</scope>
 	<description>Meteor: cursor.rewind()</description>
 </snippet>

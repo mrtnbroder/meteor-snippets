@@ -2,7 +2,7 @@
 	<content><![CDATA[
 ${1:this}.removed("${2:collection}", ${3:id});
 ]]></content>
-	<tabTrigger>r,re,rem</tabTrigger>
+	<tabTrigger>removed</tabTrigger>
 	<scope>source.js</scope>
 	<description>Meteor: this.removed(collection, id)</description>
 </snippet>

@@ -16,7 +16,7 @@ ${1:collection}.deny({
 	\}}
 });
 ]]></content>
-	<tabTrigger>mcd</tabTrigger>
+	<tabTrigger>deny,mcd</tabTrigger>
 	<scope>source.js</scope>
 	<description>Meteor: collection.deny(options)</description>
 </snippet>

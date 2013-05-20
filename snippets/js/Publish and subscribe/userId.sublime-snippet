@@ -2,7 +2,7 @@
 	<content><![CDATA[
 ${1:this}.userId
 ]]></content>
-	<tabTrigger>u,us,use</tabTrigger>
+	<tabTrigger>userId</tabTrigger>
 	<scope>source.js</scope>
 	<description>Meteor: this.userId</description>
 </snippet>

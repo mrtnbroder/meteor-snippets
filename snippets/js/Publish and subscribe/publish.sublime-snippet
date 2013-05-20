@@ -4,7 +4,7 @@ Meteor.publish("${1:name}", function ($2) {
 	${3:...}
 });
 ]]></content>
-	<tabTrigger>mp</tabTrigger>
+	<tabTrigger>Meteor.publish,mp</tabTrigger>
 	<scope>source.js</scope>
 	<description>Meteor.publish(name, fn)</description>
 </snippet>

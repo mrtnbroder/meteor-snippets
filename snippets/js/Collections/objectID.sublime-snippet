@@ -2,7 +2,7 @@
 	<content><![CDATA[
 var ${1:Foo} = new Meteor.Collection.ObjectID(${2:hexString});
 ]]></content>
-	<tabTrigger>mcoid</tabTrigger>
+	<tabTrigger>ObjectID,mcoid</tabTrigger>
 	<scope>source.js</scope>
 	<description>new Meteor.Collection.ObjectID(hexString)</description>
 </snippet>

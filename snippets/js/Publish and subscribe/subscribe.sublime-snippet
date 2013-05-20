@@ -2,7 +2,7 @@
 	<content><![CDATA[
 Meteor.subscribe("${1:name}"${2:, ${3:/* [, arg1, arg2, ... ] [, callbacks] */}});
 ]]></content>
-	<tabTrigger>msub</tabTrigger>
+	<tabTrigger>Meteor.subscribe,msub</tabTrigger>
 	<scope>source.js</scope>
 	<description>Meteor.subscribe(name [, arg1, arg2, ... ] [, callbacks])</description>
 </snippet>

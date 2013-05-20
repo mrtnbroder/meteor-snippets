@@ -10,7 +10,7 @@ ${1:collection}.findOne({${2:
 	*/
 }});
 ]]></content>
-	<tabTrigger>mcfo</tabTrigger>
+	<tabTrigger>findOne,mcfo</tabTrigger>
 	<scope>source.js</scope>
 	<description>Meteor: collection.findOne(selector, [options])</description>
 </snippet>

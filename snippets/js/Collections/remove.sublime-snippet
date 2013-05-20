@@ -2,7 +2,7 @@
 	<content><![CDATA[
 ${1:collection}.remove({${2:selector}}${3:, ${4:callback}});
 ]]></content>
-	<tabTrigger>mcr</tabTrigger>
+	<tabTrigger>remove,mcr</tabTrigger>
 	<scope>source.js</scope>
 	<description>Meteor: collection.remove(selector, [callback])</description>
 </snippet>

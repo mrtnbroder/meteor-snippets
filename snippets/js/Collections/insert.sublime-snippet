@@ -2,7 +2,7 @@
 	<content><![CDATA[
 ${1:collection}.insert({$2}${3:, ${4:callback}});
 ]]></content>
-	<tabTrigger>mci</tabTrigger>
+	<tabTrigger>insert,mci</tabTrigger>
 	<scope>source.js</scope>
 	<description>Meteor: collection.insert(doc, [callback])</description>
 </snippet>

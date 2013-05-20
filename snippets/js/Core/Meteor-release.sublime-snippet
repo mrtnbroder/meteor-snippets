@@ -2,7 +2,7 @@
 	<content><![CDATA[
 Meteor.release
 ]]></content>
-	<tabTrigger>mrel</tabTrigger>
+	<tabTrigger>Meteor.release,mrel</tabTrigger>
 	<scope>source.js</scope>
 	<description>Meteor.release</description>
 </snippet>

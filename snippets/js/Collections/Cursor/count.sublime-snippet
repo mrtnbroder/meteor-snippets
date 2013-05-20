@@ -2,7 +2,7 @@
 	<content><![CDATA[
 count();
 ]]></content>
-	<tabTrigger>cou</tabTrigger>
+	<tabTrigger>count</tabTrigger>
 	<scope>source.js</scope>
 	<description>Meteor: cursor.count()</description>
 </snippet>
