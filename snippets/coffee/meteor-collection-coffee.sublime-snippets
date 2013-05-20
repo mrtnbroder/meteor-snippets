@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:Collection} = new Meteor.Collection "${2:name}"
+]]></content>
+	<tabTrigger>col</tabTrigger>
+	<scope>source.coffee</scope>
+	<description>new Meteor.Collection()</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<template name="${1:main}">
+	${2:...}
+</template>
+]]></content>
+	<tabTrigger>tp</tabTrigger>
+	<scope>text.html,text.htm</scope>
+	<description>Meteor Template Tag</description>
+</snippet>

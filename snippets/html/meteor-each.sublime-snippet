@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+{{#each ${1:player}}}
+	${2:...}
+{{/each}}
+]]></content>
+	<tabTrigger>ea</tabTrigger>
+	<scope>text.html,text.htm</scope>
+	<description>Meteor {{#each}}</description>
+</snippet>
