@@ -1,11 +1,11 @@
 # Meteor Snippets for Sublime Text 2/3
 
-Some snippets for working with the [Meteor](http://meteor.com) framework. (WIP)
+Some snippets for working with the [Meteor](http://meteor.com) framework.
 
 Includes snippets for
- * CoffeeScript
- * HTML
- * JavaScript
+ * CoffeeScript (WIP)
+ * HTML (done)
+ * JavaScript (done)
 
 ## Installation
 
@@ -26,7 +26,7 @@ git clone git://github.com/mrtnbroder/meteor-snippets.git ~/.config/sublime-text
 git clone git://github.com/mrtnbroder/meteor-snippets.git %userprofile%\AppData\Roaming\Sublime Text 2\Packages\Meteor Snippets
 ```
 
-## Snippets
+## Examples
 
 __tp__
 ```html
@@ -35,14 +35,14 @@ __tp__
 </template>
 ```
 
-__mr__
+Meteor.render
 ```javascript
 Meteor.render(function () {
 	...
 });
 ```
 
-__mp__
+Meteor.publish
 ```javascript
 Meteor.publish("name", function () {
 	...
@@ -64,6 +64,12 @@ __ea__
 ```
 
 ... and a whole lot more!
+
+## Todo's
+
+ * remap the tabTriggers
+ * add CoffeeScript Methods
+ * add HTML Methods
 
 ## Contribute
 
