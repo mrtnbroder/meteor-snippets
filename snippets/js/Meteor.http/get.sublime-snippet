@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Meteor.http.get(${1:url}${2:, ${3:options}}${4:, ${5:asyncCallback}});
+]]></content>
+	<tabTrigger>Meteor</tabTrigger>
+	<scope>source.js</scope>
+	<description>Meteor.http.get(url, [options], [asyncCallback])</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+equals(${1:a}, ${2:b});
+]]></content>
+	<tabTrigger>equals</tabTrigger>
+	<scope>source.js</scope>
+	<description>Meteor: EJSON.equals(val)</description>
+</snippet>

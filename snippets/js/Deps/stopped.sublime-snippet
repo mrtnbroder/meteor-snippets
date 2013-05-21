@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+stopped;
+]]></content>
+	<tabTrigger>stopped</tabTrigger>
+	<scope>source.js</scope>
+	<description>Meteor: computation.stopped</description>
+</snippet>

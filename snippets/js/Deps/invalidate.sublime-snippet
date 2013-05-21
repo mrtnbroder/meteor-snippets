@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+invalidate();
+]]></content>
+	<tabTrigger>invalidate</tabTrigger>
+	<scope>source.js</scope>
+	<description>Meteor: computation.invalidate()</description>
+</snippet>

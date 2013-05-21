@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+clone(${1:val});
+]]></content>
+	<tabTrigger>clone</tabTrigger>
+	<scope>source.js</scope>
+	<description>Meteor: EJSON.clone(val)</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+typeName();
+]]></content>
+	<tabTrigger>typeName</tabTrigger>
+	<scope>source.js</scope>
+	<description>Meteor: instance.typeName()</description>
+</snippet>

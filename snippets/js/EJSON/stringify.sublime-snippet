@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+stringify(${1:val});
+]]></content>
+	<tabTrigger>stringify</tabTrigger>
+	<scope>source.js</scope>
+	<description>Meteor: EJSON.stringify(val)</description>
+</snippet>

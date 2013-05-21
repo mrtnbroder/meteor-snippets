@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+parse(${1:str});
+]]></content>
+	<tabTrigger>parse</tabTrigger>
+	<scope>source.js</scope>
+	<description>Meteor: EJSON.parse(str)</description>
+</snippet>

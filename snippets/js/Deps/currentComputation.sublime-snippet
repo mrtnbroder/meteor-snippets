@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Deps.currentComputation
+]]></content>
+	<tabTrigger>Deps.currentComputation</tabTrigger>
+	<scope>source.js</scope>
+	<description>Meteor: Deps.currentComputation</description>
+</snippet>
