@@ -6,5 +6,5 @@ Meteor.render(function ($1) {
 ]]></content>
 	<tabTrigger>Meteor.render</tabTrigger>
 	<scope>source.js</scope>
-	<description>Meteor.render()</description>
+	<description>Meteor.render(htmlFunc)</description>
 </snippet>

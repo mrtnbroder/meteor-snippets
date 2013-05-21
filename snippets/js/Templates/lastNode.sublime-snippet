@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+lastNode;
+]]></content>
+	<tabTrigger>lastNode</tabTrigger>
+	<scope>source.js</scope>
+	<description>Meteor: this.lastNode</description>
+</snippet>

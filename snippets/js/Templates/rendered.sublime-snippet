@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+rendered = function ($1) {
+	${2:// ...}
+};
+]]></content>
+	<tabTrigger>rendered</tabTrigger>
+	<scope>source.js</scope>
+	<description>Meteor: Template.myTemplate.rendered = function ( ) { ... }</description>
+</snippet>
