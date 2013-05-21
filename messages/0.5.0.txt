@@ -1,0 +1,13 @@
+Meteor Snippets v0.5.0 Changelog:
+--------------------------------------------------------------------------------
+
+Added all methods from the documentation of Meteor (0.6.3.1) for JavasScript
+files. If you found any bugs please let me know at:
+
+https://github.com/mrtnbroder/meteor-snippets
+
+and create an issue.
+
+Thanks you! Have a nice day :).
+
+--------------------------------------------------------------------------------
