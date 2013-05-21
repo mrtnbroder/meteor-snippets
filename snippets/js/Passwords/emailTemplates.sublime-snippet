@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Accounts.emailTemplates
+]]></content>
+	<tabTrigger>Accounts.emailTemplates</tabTrigger>
+	<scope>source.js</scope>
+	<description>Meteor: Accounts.emailTemplates</description>
+</snippet>

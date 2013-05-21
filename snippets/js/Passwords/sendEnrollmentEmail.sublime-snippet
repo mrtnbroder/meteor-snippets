@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Accounts.sendEnrollmentEmail(${1:userId}${2:, ${3:email}});
+]]></content>
+	<tabTrigger>Accounts.sendEnrollmentEmail</tabTrigger>
+	<scope>source.js</scope>
+	<description>Meteor: Accounts.sendEnrollmentEmail(userId, [email])</description>
+</snippet>

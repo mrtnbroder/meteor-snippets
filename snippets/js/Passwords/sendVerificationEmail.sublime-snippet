@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Accounts.sendVerificationEmail(${1:userId}${2:, ${3:email}});
+]]></content>
+	<tabTrigger>Accounts.sendVerificationEmail</tabTrigger>
+	<scope>source.js</scope>
+	<description>Meteor: Accounts.sendVerificationEmail(userId, [email])</description>
+</snippet>
