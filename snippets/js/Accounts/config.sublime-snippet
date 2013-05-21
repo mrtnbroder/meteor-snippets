@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Accounts.config($1);
+]]></content>
+	<tabTrigger>Accounts.config</tabTrigger>
+	<scope>source.js</scope>
+	<description>Meteor: Accounts.config(options)</description>
+</snippet>

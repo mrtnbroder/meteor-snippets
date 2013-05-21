@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+Meteor.loginWithGoogle({
+	requestPermissions: [${1:"client_id", "state"}] // https://developers.google.com/accounts/docs/OAuth2Login#scopeparameter
+}, function (error) {
+	if (error) {
+		${2:// ...}
+	}
+});
+]]></content>
+	<tabTrigger>Meteor.loginWithGoogle</tabTrigger>
+	<scope>source.js</scope>
+	<description>Meteor.loginWithGoogle([options], [callback])</description>
+</snippet>

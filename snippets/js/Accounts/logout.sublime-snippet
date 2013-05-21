@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Meteor.logout(${1:callback});
+]]></content>
+	<tabTrigger>Meteor.logout</tabTrigger>
+	<scope>source.js</scope>
+	<description>Meteor.logout([callback])</description>
+</snippet>

@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+Meteor.loginWithTwitter({
+	requestPermissions: [${1:"basic"}] // currently not supported
+}, function (error) {
+	if (error) {
+		${2:// ...}
+	}
+});
+]]></content>
+	<tabTrigger>Meteor.loginWithTwitter</tabTrigger>
+	<scope>source.js</scope>
+	<description>Meteor.loginWithTwitter([options], [callback])</description>
+</snippet>

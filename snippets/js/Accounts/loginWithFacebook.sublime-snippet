@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+Meteor.loginWithFacebook({
+	requestPermissions: [${1:"name", "gender"}] // http://developers.facebook.com/docs/authentication/permissions/
+}, function (error) {
+	if (error) {
+		${2:// ...}
+	}
+});
+]]></content>
+	<tabTrigger>Meteor.loginWithFacebook</tabTrigger>
+	<scope>source.js</scope>
+	<description>Meteor.loginWithFacebook([options], [callback])</description>
+</snippet>
