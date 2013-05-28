@@ -4,9 +4,9 @@ Some snippets for working with the [Meteor](http://meteor.com) framework (v0.6.3
 
 Includes snippets for
 
- * CoffeeScript (√)
- * HTML (√)
- * JavaScript (√)
+ * CoffeeScript (✔)
+ * HTML (✔)
+ * JavaScript (✔)
 
 ## Installation
 
