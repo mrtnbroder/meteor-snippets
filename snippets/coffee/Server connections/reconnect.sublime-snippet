@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-Meteor.reconnect();
+Meteor.reconnect()
 ]]></content>
 	<tabTrigger>Meteor.reconnect</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.coffee</scope>
 	<description>Meteor.reconnect()</description>
 </snippet>

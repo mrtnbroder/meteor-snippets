@@ -3,6 +3,6 @@
 Meteor.status()
 ]]></content>
 	<tabTrigger>Meteor.status</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.coffee</scope>
 	<description>Meteor.status()</description>
 </snippet>
