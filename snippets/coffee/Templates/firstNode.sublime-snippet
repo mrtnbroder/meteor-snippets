@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-firstNode;
+firstNode
 ]]></content>
 	<tabTrigger>firstNode</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.coffee</scope>
 	<description>Meteor: this.firstNode</description>
 </snippet>

@@ -1,12 +1,10 @@
 <snippet>
 	<content><![CDATA[
-events({
-	"${1:click}": function ($2) {
-		${3:// ...}
-	}
-});
+events
+	"${1:click}": ($2) ->
+		${3:# ...}
 ]]></content>
 	<tabTrigger>events</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.coffee</scope>
 	<description>Meteor: Template.myTemplate.events(eventMap)</description>
 </snippet>

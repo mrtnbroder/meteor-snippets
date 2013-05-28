@@ -1,12 +1,11 @@
 <snippet>
 	<content><![CDATA[
-preserve({
-	"${1:input[id]}": function (${2:node}) {
-		${3:// return node.id;}
-	}$4
-});
+preserve
+	"${1:input[id]}": (${2:node}) ->
+		${3:# node.id}
+	$4
 ]]></content>
 	<tabTrigger>preserve</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.coffee</scope>
 	<description>Meteor: Template.myTemplate.preserve(selectors)</description>
 </snippet>

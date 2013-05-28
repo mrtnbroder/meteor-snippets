@@ -1,10 +1,9 @@
 <snippet>
 	<content><![CDATA[
-destroyed = function ($1) {
-	${2:// ...}
-};
+destroyed = ($1) ->
+	${2:# ...}
 ]]></content>
 	<tabTrigger>destroyed</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.coffee</scope>
 	<description>Meteor: Template.myTemplate.destroyed = function ( ) { ... }</description>
 </snippet>
