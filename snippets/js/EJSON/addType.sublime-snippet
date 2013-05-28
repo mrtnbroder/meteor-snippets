@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-addType(${1:name}, $(2:factory));
+addType(${1:name}, ${2:factory});
 ]]></content>
 	<tabTrigger>addType</tabTrigger>
 	<scope>source.js</scope>
