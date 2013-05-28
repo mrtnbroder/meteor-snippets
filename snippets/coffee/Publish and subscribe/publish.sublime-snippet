@@ -1,10 +1,9 @@
 <snippet>
 	<content><![CDATA[
-Meteor.publish("${1:name}", function ($2) {
-	${3:...}
-});
+Meteor.publish "${1:name}", ($2) ->
+	${3:# ...}
 ]]></content>
 	<tabTrigger>Meteor.publish</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.coffee</scope>
 	<description>Meteor.publish(name, fn)</description>
 </snippet>

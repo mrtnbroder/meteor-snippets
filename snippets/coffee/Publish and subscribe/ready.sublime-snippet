@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-ready();
+ready()
 ]]></content>
 	<tabTrigger>ready</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.coffee</scope>
 	<description>Meteor: this.ready()</description>
 </snippet>

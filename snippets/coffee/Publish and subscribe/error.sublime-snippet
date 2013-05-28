@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-error(${1:error});
+error ${1:error}
 ]]></content>
 	<tabTrigger>error</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.coffee</scope>
 	<description>Meteor: this.error(error)</description>
 </snippet>
