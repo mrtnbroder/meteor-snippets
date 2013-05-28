@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-unblock();
+unblock()
 ]]></content>
 	<tabTrigger>unblock</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.coffee</scope>
 	<description>Meteor: this.unblock()</description>
 </snippet>

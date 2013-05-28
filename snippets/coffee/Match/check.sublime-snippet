@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-check(${1:value}, ${2:pattern});
+check ${1:value}, ${2:pattern}
 ]]></content>
 	<tabTrigger>check</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.coffee</scope>
 	<description>Meteor: check(value, pattern)</description>
 </snippet>

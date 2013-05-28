@@ -3,6 +3,6 @@
 isSimulation
 ]]></content>
 	<tabTrigger>isSimulation</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.coffee</scope>
 	<description>Meteor: this.isSimulation</description>
 </snippet>
