@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-addType(${1:name}, $(2:factory));
+addType ${1:name}, ${2:factory}
 ]]></content>
 	<tabTrigger>addType</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.coffee</scope>
 	<description>Meteor: EJSON.addType(name, factory)</description>
 </snippet>

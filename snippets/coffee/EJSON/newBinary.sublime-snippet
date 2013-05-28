@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-newBinary(${1:size});
+newBinary ${1:size}
 ]]></content>
 	<tabTrigger>newBinary</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.coffee</scope>
 	<description>Meteor: EJSON.newBinary(size)</description>
 </snippet>
