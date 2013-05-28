@@ -1,10 +1,9 @@
 <snippet>
 	<content><![CDATA[
-forEach(function (${1:post}) {
-	${2:// ...}
-});
+forEach (${1:post}) ->
+	${2:# ...}
 ]]></content>
 	<tabTrigger>forEach</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.coffee</scope>
 	<description>Meteor: cursor.forEach(callback)</description>
 </snippet>

@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-count();
+count()
 ]]></content>
 	<tabTrigger>count</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.coffee</scope>
 	<description>Meteor: cursor.count()</description>
 </snippet>

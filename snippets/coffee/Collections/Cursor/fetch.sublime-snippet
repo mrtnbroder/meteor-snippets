@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-fetch();
+fetch()
 ]]></content>
 	<tabTrigger>fetch</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.coffee</scope>
 	<description>Meteor: cursor.fetch()</description>
 </snippet>
