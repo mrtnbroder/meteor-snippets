@@ -1,22 +1,18 @@
 <snippet>
 	<content><![CDATA[
-allow({
-	insert: function (userId, doc) {
-		${1://...}
-	},
-	update: function (userId, doc, fields, modifier) {
-		${2://...}
-	},
-	remove: function (userId, doc) {
-		${3://...}
-	},
+allow
+	insert: (userId, doc) ->
+		${1:# ...}
+	update: (userId, doc, fields, modifier) ->
+		${2:# ...}
+	remove: (userId, doc) ->
+		${3:# ...}
 	fetch: ["${4:owner}"]${5:,
-	transform: function () {
-		${6://...}
-	\}}
-});
+	transform: () ->
+		${6:# ...}
+	}
 ]]></content>
 	<tabTrigger>allow</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.coffee</scope>
 	<description>Meteor: collection.allow(options)</description>
 </snippet>
