@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+Email.send(${1:{
+	to: ${2:to},
+	from: ${3:from},
+	subject: ${4:subject},
+	text: ${5:text}
+\}});
+]]></content>
+	<tabTrigger>Email</tabTrigger>
+	<scope>source.js</scope>
+	<description>Meteor: Email.send(options)</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+changed();
+]]></content>
+	<tabTrigger>changed</tabTrigger>
+	<scope>source.js</scope>
+	<description>Meteor: dependency.changed()</description>
+</snippet>

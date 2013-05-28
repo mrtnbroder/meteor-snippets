@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+Accounts.validateNewUser(function (${1:user}) {
+	${2:// ...}
+});
+]]></content>
+	<tabTrigger>Accounts.validateNewUser</tabTrigger>
+	<scope>source.js</scope>
+	<description>Meteor: Accounts.validateNewUser(fn)</description>
+</snippet>

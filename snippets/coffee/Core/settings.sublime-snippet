@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Meteor.settings
+]]></content>
+	<tabTrigger>Meteor.settings</tabTrigger>
+	<scope>source.js</scope>
+	<description>Meteor.settings</description>
+</snippet>

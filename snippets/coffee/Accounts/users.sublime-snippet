@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Meteor.users
+]]></content>
+	<tabTrigger>Meteor.users</tabTrigger>
+	<scope>source.js</scope>
+	<description>Meteor.users</description>
+</snippet>

@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[
+Accounts.createUser({
+	${1:username: "joeschmoe",
+	password: "password",
+	email: "joe@schmoe.com",
+	profile: {
+		name: "Joe Schmoe"
+	\}}
+}${2:, function () {
+	${3:// ...}
+\}});
+]]></content>
+	<tabTrigger>Accounts.createUser</tabTrigger>
+	<scope>source.js</scope>
+	<description>Meteor: Accounts.createUser(options, [callback])</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+Meteor.setInterval(${1:function ($2) {
+	${3:// ...}
+\}}, ${4:delay});
+]]></content>
+	<tabTrigger>Meteor.setInterval</tabTrigger>
+	<scope>source.js</scope>
+	<description>Meteor.setInterval(fn, delay)</description>
+</snippet>

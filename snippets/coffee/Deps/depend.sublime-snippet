@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+depend($1);
+]]></content>
+	<tabTrigger>depend</tabTrigger>
+	<scope>source.js</scope>
+	<description>Meteor: dependency.depend([fromComputation])</description>
+</snippet>

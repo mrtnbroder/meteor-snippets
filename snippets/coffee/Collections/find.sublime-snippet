@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[
+find({$1}${2:, {
+	${3:/*
+	sort: Sort specifier,
+	skip: Number,
+	limit: Number,
+	fields: Field specifier,
+	reactive: Boolean,
+	transform: Function
+	*/}
+\}});
+]]></content>
+	<tabTrigger>find</tabTrigger>
+	<scope>source.js</scope>
+	<description>Meteor: collection.find(selector, [options])</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Session.setDefault(${1:key},  ${2:value});
+]]></content>
+	<tabTrigger>Session.setDefault</tabTrigger>
+	<scope>source.js</scope>
+	<description>Meteor: Session.setDefault(key, value)</description>
+</snippet>

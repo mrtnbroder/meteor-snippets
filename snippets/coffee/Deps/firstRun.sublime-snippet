@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+firstRun;
+]]></content>
+	<tabTrigger>firstRun</tabTrigger>
+	<scope>source.js</scope>
+	<description>Meteor: computation.firstRun</description>
+</snippet>

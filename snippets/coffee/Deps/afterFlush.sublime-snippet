@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+Deps.afterFlush(${1:function () {
+	${2:// callback}
+\}});
+]]></content>
+	<tabTrigger>Deps.afterFlush</tabTrigger>
+	<scope>source.js</scope>
+	<description>Meteor: Deps.afterFlush(callback)</description>
+</snippet>

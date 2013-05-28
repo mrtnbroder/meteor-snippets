@@ -1,0 +1,30 @@
+<snippet>
+	<content><![CDATA[
+observe(${1:{${2:
+	added: function (document) {
+		${3:// ...}
+	\}, // Use either added() OR(!) addedAt()}${4:
+	addedAt: function (document, atIndex, before) {
+		${5:// ...}
+	\},}${6:
+	changed: function (newDocument, oldDocument) {
+		${7:// ...}
+	\}, // Use either changed() OR(!) changedAt()}${8:
+	changedAt: function (newDocument, oldDocument, atIndex) {
+		${9:// ...}
+	\},}${10:
+	removed: function (oldDocument) {
+		${11:// ...}
+	\}, // Use either removed() OR(!) removedAt()}${12:
+	removedAt: function (oldDocument, atIndex) {
+		${13:// ...}
+	\},}${14:
+	movedTo: function (document, fromIndex, toIndex, before) {
+		${15:// ...}
+	\}}
+\}});
+]]></content>
+	<tabTrigger>observe</tabTrigger>
+	<scope>source.js</scope>
+	<description>Meteor: cursor.observe(callbacks)</description>
+</snippet>

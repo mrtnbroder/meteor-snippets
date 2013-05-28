@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+map(function (${1:post}) {
+	${2:// ...}
+});
+]]></content>
+	<tabTrigger>map</tabTrigger>
+	<scope>source.js</scope>
+	<description>Meteor: cursor.map(callback)</description>
+</snippet>

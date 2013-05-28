@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+Accounts.onCreateUser(function (${1:options, user}) {
+	${2:// ...}
+});
+]]></content>
+	<tabTrigger>Accounts.onCreateUser</tabTrigger>
+	<scope>source.js</scope>
+	<description>Meteor: Accounts.onCreateUser(fn)</description>
+</snippet>

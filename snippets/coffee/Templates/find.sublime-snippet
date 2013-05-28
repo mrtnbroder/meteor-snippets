@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+find("${1:div}");
+]]></content>
+	<tabTrigger>find</tabTrigger>
+	<scope>source.js</scope>
+	<description>Meteor: this.find(selector)</description>
+</snippet>

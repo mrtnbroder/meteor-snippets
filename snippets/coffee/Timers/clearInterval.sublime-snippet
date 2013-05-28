@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Meteor.clearInterval(${1:id});
+]]></content>
+	<tabTrigger>Meteor.clearInterval</tabTrigger>
+	<scope>source.js</scope>
+	<description>Meteor.clearInterval(id)</description>
+</snippet>

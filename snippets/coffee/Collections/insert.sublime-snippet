@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+insert({$1}${2:, ${3:callback}});
+]]></content>
+	<tabTrigger>insert</tabTrigger>
+	<scope>source.js</scope>
+	<description>Meteor: collection.insert(doc, [callback])</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+onStop(${1:function ($2) {
+	${3:...}
+\}});
+]]></content>
+	<tabTrigger>onStop</tabTrigger>
+	<scope>source.js</scope>
+	<description>Meteor: this.onStop(fn)</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+removed("${1:collection}", ${2:id});
+]]></content>
+	<tabTrigger>removed</tabTrigger>
+	<scope>source.js</scope>
+	<description>Meteor: this.removed(collection, id)</description>
+</snippet>

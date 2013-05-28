@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+toJSONValue(${1:val});
+]]></content>
+	<tabTrigger>toJSONValue</tabTrigger>
+	<scope>source.js</scope>
+	<description>Meteor: EJSON.toJSONValue(val)</description>
+</snippet>

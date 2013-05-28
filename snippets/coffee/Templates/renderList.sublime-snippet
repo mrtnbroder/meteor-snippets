@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Meteor.renderList($1);
+]]></content>
+	<tabTrigger>Meteor.renderList</tabTrigger>
+	<scope>source.js</scope>
+	<description>Meteor.renderList(observable, docFunc, [elseFunc])</description>
+</snippet>

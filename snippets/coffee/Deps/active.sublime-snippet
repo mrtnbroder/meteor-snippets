@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Deps.active
+]]></content>
+	<tabTrigger>Deps.active</tabTrigger>
+	<scope>source.js</scope>
+	<description>Meteor: Deps.active</description>
+</snippet>

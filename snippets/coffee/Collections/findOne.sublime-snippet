@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+findOne({${1:
+	/*
+	sort: Sort specifier,
+	skip: Number,
+	fields: Field specifier,
+	reactive: Boolean,
+	transform: Function
+	*/
+}});
+]]></content>
+	<tabTrigger>findOne</tabTrigger>
+	<scope>source.js</scope>
+	<description>Meteor: collection.findOne(selector, [options])</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+Meteor.setTimeout(${1:function ($2) {
+	${3:// ...}
+\}}, ${4:delay});
+]]></content>
+	<tabTrigger>Meteor.setTimeout</tabTrigger>
+	<scope>source.js</scope>
+	<description>Meteor.setTimeout(fn, delay)</description>
+</snippet>

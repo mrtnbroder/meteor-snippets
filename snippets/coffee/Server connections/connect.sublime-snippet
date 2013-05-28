@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Meteor.connect(${1:url});
+]]></content>
+	<tabTrigger>Meteor.connect</tabTrigger>
+	<scope>source.js</scope>
+	<description>Meteor.connect(url)</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Match.test(${1:value}, ${2:pattern});
+]]></content>
+	<tabTrigger>Match.test</tabTrigger>
+	<scope>source.js</scope>
+	<description>Meteor: Match.test(value, pattern)</description>
+</snippet>

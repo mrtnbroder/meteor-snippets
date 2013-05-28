@@ -1,0 +1,24 @@
+<snippet>
+	<content><![CDATA[
+observeChanges(${1:{${2:
+	added: function (id, fields) {
+		${3:// ...}
+	\}, // Use either added() OR(!) addedBefore()}${4:
+	addedBefore: function (id, fields, before) {
+		${5:// ...}
+	\},}${6:
+	changed: function (id, fields) {
+		${7:// ...}
+	\},}${8:
+	movedBefore: function (id, fields) {
+		${9:// ...}
+	\},}${10:
+	removed: function (id) {
+		${11:// ...}
+	\}}
+\}});
+]]></content>
+	<tabTrigger>observeChanges</tabTrigger>
+	<scope>source.js</scope>
+	<description>Meteor: cursor.observeChanges(callbacks)</description>
+</snippet>

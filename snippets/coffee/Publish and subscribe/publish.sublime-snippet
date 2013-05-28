@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+Meteor.publish("${1:name}", function ($2) {
+	${3:...}
+});
+]]></content>
+	<tabTrigger>Meteor.publish</tabTrigger>
+	<scope>source.js</scope>
+	<description>Meteor.publish(name, fn)</description>
+</snippet>

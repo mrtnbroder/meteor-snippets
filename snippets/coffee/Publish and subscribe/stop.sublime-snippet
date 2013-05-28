@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+stop();
+]]></content>
+	<tabTrigger>stop</tabTrigger>
+	<scope>source.js</scope>
+	<description>Meteor: this.stop()</description>
+</snippet>
