@@ -1,3 +1,7 @@
+v0.9.0
+ * Added all Methods for CoffeScript.
+ * fixed some small issues.
+
 v0.5.0
  * Added all Methods as snippets from Meteors documentation as of Meteors version 0.6.3.1 for javascript
 
