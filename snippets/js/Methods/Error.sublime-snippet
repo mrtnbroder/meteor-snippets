@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-throw new Meteor.Error(${1:404}, "${2:Error 404: Not found}"${3:, ${4:details}});
+Meteor.Error(${1:404}, "${2:Error 404: Not found}"${3:, ${4:details}});
 ]]></content>
-	<tabTrigger>error</tabTrigger>
+	<tabTrigger>Error</tabTrigger>
 	<scope>source.js</scope>
 	<description>new Meteor.Error(error, reason, details)</description>
 </snippet>
