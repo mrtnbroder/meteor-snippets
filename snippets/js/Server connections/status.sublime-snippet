@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-Meteor.status()
+Meteor.status();
 ]]></content>
 	<tabTrigger>Meteor.status</tabTrigger>
 	<scope>source.js</scope>
