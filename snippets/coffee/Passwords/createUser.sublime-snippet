@@ -1,17 +1,16 @@
 <snippet>
 	<content><![CDATA[
-Accounts.createUser({
-	${1:username: "joeschmoe",
-	password: "password",
-	email: "joe@schmoe.com",
-	profile: {
+Accounts.createUser
+	${1:username: "joeschmoe"
+	password: "password"
+	email: "joe@schmoe.com"
+	profile:
 		name: "Joe Schmoe"
-	\}}
-}${2:, function () {
-	${3:// ...}
-\}});
+}${2:, (error) ->
+	${3:# ...}
+}
 ]]></content>
 	<tabTrigger>Accounts.createUser</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.coffee</scope>
 	<description>Meteor: Accounts.createUser(options, [callback])</description>
 </snippet>
