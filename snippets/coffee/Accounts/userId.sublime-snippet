@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-Meteor.userId();
+Meteor.userId()
 ]]></content>
 	<tabTrigger>Meteor.userId</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.coffee</scope>
 	<description>Meteor.userId()</description>
 </snippet>

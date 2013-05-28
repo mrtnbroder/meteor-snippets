@@ -1,14 +1,12 @@
 <snippet>
 	<content><![CDATA[
-Meteor.loginWithGithub({
-	requestPermissions: [${1:"user", "public_repro"}] // http://developer.github.com/v3/oauth/#scopes
-}, function (error) {
-	if (error) {
-		${2:// ...}
-	}
-});
+Meteor.loginWithGithub
+	requestPermissions: [${1:"user", "public_repro"}] # http://developer.github.com/v3/oauth/#scopes
+, (error) ->
+	if error
+		${2:alert "Error"}
 ]]></content>
 	<tabTrigger>Meteor.loginWithGithub</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.coffee</scope>
 	<description>Meteor.loginWithGithub([options], [callback])</description>
 </snippet>

@@ -1,14 +1,12 @@
 <snippet>
 	<content><![CDATA[
-Meteor.loginWithMeetup({
-	requestPermissions: [${1:"basic"}] // http://www.meetup.com/meetup_api/auth/#oauth2-scopes
-}, function (error) {
-	if (error) {
-		${2:// ...}
-	}
-});
+Meteor.loginWithMeetup
+	requestPermissions: [${1:"basic"}] # http://www.meetup.com/meetup_api/auth/#oauth2-scopes
+, (error) ->
+	if error
+		${2:alert "Error"}
 ]]></content>
 	<tabTrigger>Meteor.loginWithMeetup</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.coffee</scope>
 	<description>Meteor.loginWithMeetup([options], [callback])</description>
 </snippet>

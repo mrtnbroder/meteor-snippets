@@ -1,10 +1,10 @@
 <snippet>
 	<content><![CDATA[
 Meteor.loginWithFacebook
-	requestPermissions: [${1:"name", "gender"}] // http://developers.facebook.com/docs/authentication/permissions/
-	, (error) ->
+	requestPermissions: [${1:"name", "gender"}] # http://developers.facebook.com/docs/authentication/permissions/
+, (error) ->
 	if error
-		${2:// ...}
+		${2:alert "Error"}
 ]]></content>
 	<tabTrigger>Meteor.loginWithFacebook</tabTrigger>
 	<scope>source.coffee</scope>
