@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-changed();
+changed()
 ]]></content>
 	<tabTrigger>changed</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.coffee</scope>
 	<description>Meteor: dependency.changed()</description>
 </snippet>

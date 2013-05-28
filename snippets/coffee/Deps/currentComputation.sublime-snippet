@@ -3,6 +3,6 @@
 Deps.currentComputation
 ]]></content>
 	<tabTrigger>Deps.currentComputation</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.coffee</scope>
 	<description>Meteor: Deps.currentComputation</description>
 </snippet>

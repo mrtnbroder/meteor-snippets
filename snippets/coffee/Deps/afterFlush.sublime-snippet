@@ -1,10 +1,10 @@
 <snippet>
 	<content><![CDATA[
-Deps.afterFlush(${1:function () {
-	${2:// callback}
-\}});
+Deps.afterFlush ${1:() ->
+	${2:# callback}
+}
 ]]></content>
 	<tabTrigger>Deps.afterFlush</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.coffee</scope>
 	<description>Meteor: Deps.afterFlush(callback)</description>
 </snippet>

@@ -1,10 +1,10 @@
 <snippet>
 	<content><![CDATA[
-Deps.onInvalidate(${1:function () {
-	${2:// callback}
-\}});
+Deps.onInvalidate ${1:() ->
+	${2:# callback}
+}
 ]]></content>
 	<tabTrigger>Deps.onInvalidate</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.coffee</scope>
 	<description>Meteor: Deps.onInvalidate(callback)</description>
 </snippet>

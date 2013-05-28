@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-Deps.flush();
+Deps.flush()
 ]]></content>
 	<tabTrigger>Deps.flush</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.coffee</scope>
 	<description>Meteor: Deps.flush()</description>
 </snippet>

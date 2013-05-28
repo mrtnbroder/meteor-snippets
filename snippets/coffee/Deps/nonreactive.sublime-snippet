@@ -1,10 +1,10 @@
 <snippet>
 	<content><![CDATA[
-Deps.nonreactive(${1:function () {
-	${2:// ...}
-\}});
+Deps.nonreactive ${1:() ->
+	${2:# ...}
+}
 ]]></content>
 	<tabTrigger>Deps.nonreactive</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.coffee</scope>
 	<description>Meteor: Deps.nonreactive(fn)</description>
 </snippet>

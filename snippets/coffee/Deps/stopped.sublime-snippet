@@ -3,6 +3,6 @@
 stopped;
 ]]></content>
 	<tabTrigger>stopped</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.coffee</scope>
 	<description>Meteor: computation.stopped</description>
 </snippet>

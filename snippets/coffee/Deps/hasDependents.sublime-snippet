@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-hasDependents($1);
+hasDependents($1)
 ]]></content>
 	<tabTrigger>hasDependents</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.coffee</scope>
 	<description>Meteor: dependency.hasDependents()</description>
 </snippet>
