@@ -3,6 +3,6 @@
 Meteor.settings
 ]]></content>
 	<tabTrigger>Meteor.settings</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.coffee</scope>
 	<description>Meteor.settings</description>
 </snippet>
