@@ -1,3 +1,6 @@
+v0.9.1
+ * Added .no-sublime-package for ST3 support
+
 v0.9.0
  * Added all Methods for CoffeScript.
  * fixed some small issues.

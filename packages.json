@@ -6,12 +6,12 @@
 			"description": "Some snippets for working with the Meteor framework.",
 			"author": "Martin Broder",
 			"homepage": "https://github.com/mrtnbroder/Meteor-Snippets",
-			"last_modified": "2013-06-28 16:12:32",
+			"last_modified": "2013-08-12 11:33:40",
 			"platforms": {
 				"*": [
 					{
-						"version": "0.9.0",
-						"url": "https://nodeload.github.com/mrtnbroder/Meteor-Snippets/zip/v0.9.0"
+						"version": "0.9.1",
+						"url": "https://nodeload.github.com/mrtnbroder/Meteor-Snippets/zip/v0.9.1"
 					}
 				]
 			}
