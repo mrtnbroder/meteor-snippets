@@ -1,11 +1,11 @@
 <snippet>
 	<content><![CDATA[
 Accounts.createUser({
-	${1:username: 'joeschmoe',
-	password: 'password',
-	email: 'joe@schmoe.com',
+	${1:username: "joeschmoe",
+	password: "password",
+	email: "joe@schmoe.com",
 	profile: {
-		name: 'Joe Schmoe'
+		name: "Joe Schmoe"
 	\}}
 }${2:, function () {
 	${3:// ...}

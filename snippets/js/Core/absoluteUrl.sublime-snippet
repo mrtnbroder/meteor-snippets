@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-Meteor.absoluteUrl('${1:foo}'${2:, {$3\}});
+Meteor.absoluteUrl("${1:foo}"${2:, {$3\}});
 ]]></content>
 	<tabTrigger>Meteor.absoluteUrl</tabTrigger>
 	<scope>source.js</scope>

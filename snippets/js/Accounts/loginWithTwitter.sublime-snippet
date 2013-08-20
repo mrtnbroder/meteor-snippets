@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
 Meteor.loginWithTwitter({
-	requestPermissions: [${1:'basic'}] // currently not supported
+	requestPermissions: [${1:"basic"}] // currently not supported
 }, function (error) {
 	if (error) {
 		${2:// ...}

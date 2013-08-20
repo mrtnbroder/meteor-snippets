@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
 Meteor.loginWithGithub({
-	requestPermissions: [${1:'user', 'public_repro'}] // http://developer.github.com/v3/oauth/#scopes
+	requestPermissions: [${1:"user", "public_repro"}] // http://developer.github.com/v3/oauth/#scopes
 }, function (error) {
 	if (error) {
 		${2:// ...}
