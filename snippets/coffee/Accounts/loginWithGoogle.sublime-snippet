@@ -1,10 +1,10 @@
 <snippet>
 	<content><![CDATA[
 Meteor.loginWithGoogle
-	requestPermissions: [${1:"client_id", "state"}] # https://developers.google.com/accounts/docs/OAuth2Login#scopeparameter
+	requestPermissions: [${1:'client_id', 'state'}] # https://developers.google.com/accounts/docs/OAuth2Login#scopeparameter
 , (error) ->
 	if error
-		${2:alert "Error"}
+		${2:alert 'Error'}
 ]]></content>
 	<tabTrigger>Meteor.loginWithGoogle</tabTrigger>
 	<scope>source.coffee</scope>

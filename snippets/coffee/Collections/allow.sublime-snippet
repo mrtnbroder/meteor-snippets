@@ -7,7 +7,7 @@ allow
 		${2:# ...}
 	remove: (userId, doc) ->
 		${3:# ...}
-	fetch: ["${4:owner}"]${5:,
+	fetch: ['${4:owner}']${5:,
 	transform: () ->
 		${6:# ...}
 	}
