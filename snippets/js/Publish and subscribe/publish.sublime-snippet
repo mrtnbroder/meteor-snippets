@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-Meteor.publish("${1:name}", function ($2) {
+Meteor.publish('${1:name}', function ($2) {
 	${3:...}
 });
 ]]></content>

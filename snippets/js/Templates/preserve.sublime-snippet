@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
 preserve({
-	"${1:input[id]}": function (${2:node}) {
+	'${1:input[id]}': function (${2:node}) {
 		${3:// return node.id;}
 	}$4
 });
