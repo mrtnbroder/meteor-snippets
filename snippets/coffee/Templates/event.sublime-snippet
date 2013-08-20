@@ -5,5 +5,5 @@
 ]]></content>
 	<tabTrigger>event</tabTrigger>
 	<scope>source.coffee</scope>
-	<description>Meteor: Add a new event</description>
+	<description>Meteor: Add a new event item</description>
 </snippet>
