@@ -7,7 +7,7 @@ Accounts.ui.config(${1:{${2:
 	requestOfflineToken: {
 		${5:// google: true}
 	\},}${6:
-	passwordSignupFields: "${7:EMAIL_ONLY}"}${8: //  One of "USERNAME_AND_EMAIL", "USERNAME_AND_OPTIONAL_EMAIL", "USERNAME_ONLY", or "EMAIL_ONLY" (default).}
+	passwordSignupFields: "${7:EMAIL_ONLY}"}${8: //  One of 'USERNAME_AND_EMAIL', 'USERNAME_AND_OPTIONAL_EMAIL', 'USERNAME_ONLY', or 'EMAIL_ONLY' (default).}
 \}});
 ]]></content>
 	<tabTrigger>Accounts.ui</tabTrigger>
