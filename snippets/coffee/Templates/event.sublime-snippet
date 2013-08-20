@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-'${1:click}': ($2) ->
-	${3}
-]]></content>
-	<tabTrigger>event</tabTrigger>
-	<scope>source.coffee</scope>
-	<description>Meteor: Add a new event item</description>
-</snippet>
