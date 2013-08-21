@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
 events
-	"${1:click}": ($2) ->
+	'${1:click}': ($2) ->
 		${3:# ...}
 ]]></content>
 	<tabTrigger>events</tabTrigger>

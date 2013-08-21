@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-Meteor.Error(${1:404}, '${2:Error 404: Not found}'${3:, ${4:details}});
+Meteor.Error(${1:404}, "${2:Error 404: Not found}"${3:, ${4:details}});
 ]]></content>
 	<tabTrigger>Error</tabTrigger>
 	<scope>source.js</scope>

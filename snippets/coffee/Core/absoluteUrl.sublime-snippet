@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-Meteor.absoluteUrl "${1:path}"${2:, ${3:options}}
+Meteor.absoluteUrl '${1:path}'${2:, ${3:options}}
 ]]></content>
 	<tabTrigger>Meteor.absoluteUrl</tabTrigger>
 	<scope>source.coffee</scope>

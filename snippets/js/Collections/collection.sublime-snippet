@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-Meteor.Collection('${1:bar}'${2:, ${3:options}});
+Meteor.Collection("${1:bar}"${2:, ${3:options}});
 ]]></content>
 	<tabTrigger>Meteor.Collection</tabTrigger>
 	<scope>source.js</scope>

@@ -1,10 +1,10 @@
 <snippet>
 	<content><![CDATA[
 Meteor.loginWithMeetup
-	requestPermissions: [${1:"basic"}] # http://www.meetup.com/meetup_api/auth/#oauth2-scopes
+	requestPermissions: [${1:'basic'}] # http://www.meetup.com/meetup_api/auth/#oauth2-scopes
 , (error) ->
 	if error
-		${2:alert "Error"}
+		${2:alert 'Error'}
 ]]></content>
 	<tabTrigger>Meteor.loginWithMeetup</tabTrigger>
 	<scope>source.coffee</scope>
