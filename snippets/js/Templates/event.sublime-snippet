@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+'${1:click}': function ($2) {
+	${3}
+}
+]]></content>
+	<tabTrigger>event</tabTrigger>
+	<scope>source.js</scope>
+	<description>Meteor: Add a new event item</description>
+</snippet>
