@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-findAll("${1:div}");
+findAll('${1:div}');
 ]]></content>
 	<tabTrigger>findAll</tabTrigger>
 	<scope>source.js</scope>

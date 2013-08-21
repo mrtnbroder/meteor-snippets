@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
 Meteor.loginWithMeetup({
-	requestPermissions: [${1:"basic"}] // http://www.meetup.com/meetup_api/auth/#oauth2-scopes
+	requestPermissions: [${1:'basic'}] // http://www.meetup.com/meetup_api/auth/#oauth2-scopes
 }, function (error) {
 	if (error) {
 		${2:// ...}

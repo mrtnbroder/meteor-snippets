@@ -10,7 +10,7 @@ deny({
 	remove: function (userId, doc) {
 		${3://...}
 	},
-	fetch: ["${4:locked}"]${5:,
+	fetch: ['${4:locked}']${5:,
 	transform: function () {
 		${6://...}
 	\}}
