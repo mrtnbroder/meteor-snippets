@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-changed("${1:collection}", ${2:id}, {$3});
+changed('${1:collection}', ${2:id}, {$3});
 ]]></content>
 	<tabTrigger>changed</tabTrigger>
 	<scope>source.js</scope>

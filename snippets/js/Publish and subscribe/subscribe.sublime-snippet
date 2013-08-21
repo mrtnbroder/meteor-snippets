@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-Meteor.subscribe("${1:name}"${2:, ${3:/* [, arg1, arg2, ... ] [, callbacks] */}});
+Meteor.subscribe('${1:name}'${2:, ${3:/* [, arg1, arg2, ... ] [, callbacks] */}});
 ]]></content>
 	<tabTrigger>Meteor.subscribe</tabTrigger>
 	<scope>source.js</scope>
