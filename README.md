@@ -31,7 +31,7 @@ git clone git://github.com/mrtnbroder/meteor-snippets.git %userprofile%\AppData\
 
 __tp__
 ```html
-<template name="main">
+<template name='main'>
 	...
 </template>
 ```
@@ -45,14 +45,14 @@ Meteor.render(function () {
 
 __Meteor.publish__
 ```javascript
-Meteor.publish("name", function () {
+Meteor.publish('name', function () {
 	...
 });
 ```
 
 __if__
 ```handlebars
-{{#if guyIs "male"}}
+{{#if guyIs 'male'}}
 	...
 {{/if}}
 ```

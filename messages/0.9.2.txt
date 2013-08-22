@@ -1,0 +1,20 @@
+v0.9.2 Changelog:
+--------------------------------------------------------------------------------
+ __  __      _                    ____        _                  _
+|  \/  | ___| |_ ___  ___  _ __  / ___| _ __ (_)_ __  _ __   ___| |_ ___
+| |\/| |/ _ \ __/ _ \/ _ \| '__| \___ \| '_ \| | '_ \| '_ \ / _ \ __/ __|
+| |  | |  __/ ||  __/ (_) | |     ___) | | | | | |_) | |_) |  __/ |_\__ \
+|_|  |_|\___|\__\___|\___/|_|    |____/|_| |_|_| .__/| .__/ \___|\__|___/
+                                               |_|   |_|
+
+* Now using single quotes for consistency (thanks to j20).
+* Added a new snippet to create an additional individual event item within
+  an already existing Template.mytemplate.events({}) object (thanks to j20).
+
+If you find any bugs please let me know at:
+
+https://github.com/mrtnbroder/meteor-snippets
+
+Thank you! Have a nice day :).
+
+--------------------------------------------------------------------------------
