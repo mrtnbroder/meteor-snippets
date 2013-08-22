@@ -1,3 +1,8 @@
+v0.9.2
+* Now using single quotes for consistency (thanks to j20).
+* Added a new snippet to create an additional individual event item within
+  an already existing Template.mytemplate.events({}) object (thanks to j20).
+
 v0.9.1
  * Added .no-sublime-package for ST3 support
 
