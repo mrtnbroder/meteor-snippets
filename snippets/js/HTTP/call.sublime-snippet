@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+HTTP.call(${1:method}, ${2:url}${3:, ${4:options}}${5:, ${6:asyncCallback}});
+]]></content>
+	<tabTrigger>HTTP</tabTrigger>
+	<scope>source.js</scope>
+	<description>HTTP.call(method, url [, options] [, asyncCallback])</description>
+</snippet>

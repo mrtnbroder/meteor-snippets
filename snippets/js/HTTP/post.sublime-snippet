@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+HTTP.post(${1:url}${2:, ${3:options}}${4:, ${5:asyncCallback}});
+]]></content>
+	<tabTrigger>HTTP</tabTrigger>
+	<scope>source.js</scope>
+	<description>HTTP.post(url, [options], [asyncCallback])</description>
+</snippet>

@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-Meteor.http.call ${1:method}, ${2:url}${3:, ${4:options}}${5:, ${6:asyncCallback}}
-]]></content>
-	<tabTrigger>Meteor</tabTrigger>
-	<scope>source.coffee</scope>
-	<description>Meteor.http.call(method, url [, options] [, asyncCallback])</description>
-</snippet>

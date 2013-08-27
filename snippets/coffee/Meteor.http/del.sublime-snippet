@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-Meteor.http.del ${1:url}${2:, ${3:options}}${4:, ${5:asyncCallback}}
-]]></content>
-	<tabTrigger>Meteor</tabTrigger>
-	<scope>source.coffee</scope>
-	<description>Meteor.http.del(url, [options], [asyncCallback])</description>
-</snippet>

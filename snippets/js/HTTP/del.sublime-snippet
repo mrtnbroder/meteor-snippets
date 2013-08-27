@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+HTTP.del(${1:url}${2:, ${3:options}}${4:, ${5:asyncCallback}});
+]]></content>
+	<tabTrigger>HTTP</tabTrigger>
+	<scope>source.js</scope>
+	<description>HTTP.del(url, [options], [asyncCallback])</description>
+</snippet>
