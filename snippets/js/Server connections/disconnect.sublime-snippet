@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Meteor.disconnect();
+]]></content>
+	<tabTrigger>Meteor.disconnect</tabTrigger>
+	<scope>source.js</scope>
+	<description>Meteor.disconnect()</description>
+</snippet>
