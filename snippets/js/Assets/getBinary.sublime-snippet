@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Assets.getBinary('${1:assetPath}'${2:, ${3:asyncCallback}})
+]]></content>
+	<tabTrigger>Assets</tabTrigger>
+	<scope>source.coffee</scope>
+	<description>Assets.getBinary(assetPath, [asyncCallback])</description>
+</snippet>
