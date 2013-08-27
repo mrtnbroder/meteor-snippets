@@ -1,3 +1,6 @@
+v0.9.3
+* Updated Snippets for Meteor v.0.6.5
+
 v0.9.2
 * Now using single quotes for consistency (thanks to j20).
 * Added a new snippet to create an additional individual event item within

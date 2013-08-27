@@ -1,6 +1,6 @@
 # Meteor Snippets for Sublime Text 2/3
 
-Some snippets for working with the [Meteor](http://meteor.com) framework (v0.6.3.1).
+Some snippets for working with the [Meteor](http://meteor.com) framework (v0.6.5).
 
 Includes snippets for
 
