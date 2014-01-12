@@ -3,6 +3,7 @@
 Meteor.reconnect()
 ]]></content>
 	<tabTrigger>Meteor.reconnect</tabTrigger>
-	<scope>source.coffee</scope>
+	<snippet>
+<scope>source.coffee, source.litcoffee</scope>
 	<description>Meteor.reconnect()</description>
 </snippet>

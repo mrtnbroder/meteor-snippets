@@ -3,6 +3,7 @@
 count()
 ]]></content>
 	<tabTrigger>count</tabTrigger>
-	<scope>source.coffee</scope>
+	<snippet>
+<scope>source.coffee, source.litcoffee</scope>
 	<description>Meteor: cursor.count()</description>
 </snippet>

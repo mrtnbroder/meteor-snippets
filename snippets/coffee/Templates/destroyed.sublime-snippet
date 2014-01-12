@@ -4,6 +4,7 @@ destroyed = ($1) ->
 	${2:# ...}
 ]]></content>
 	<tabTrigger>destroyed</tabTrigger>
-	<scope>source.coffee</scope>
+	<snippet>
+<scope>source.coffee, source.litcoffee</scope>
 	<description>Meteor: Template.myTemplate.destroyed = function ( ) { ... }</description>
 </snippet>

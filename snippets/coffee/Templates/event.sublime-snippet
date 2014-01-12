@@ -4,6 +4,7 @@
 	${3}
 ]]></content>
 	<tabTrigger>event</tabTrigger>
-	<scope>source.coffee</scope>
+	<snippet>
+<scope>source.coffee, source.litcoffee</scope>
 	<description>Meteor: Add a new event item</description>
 </snippet>

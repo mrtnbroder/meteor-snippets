@@ -3,6 +3,7 @@
 Session.set ${1:key}, ${2:value}
 ]]></content>
 	<tabTrigger>Session.set</tabTrigger>
-	<scope>source.coffee</scope>
+	<snippet>
+<scope>source.coffee, source.litcoffee</scope>
 	<description>Meteor: Session.set(key, value)</description>
 </snippet>

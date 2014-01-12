@@ -3,6 +3,7 @@
 findOne(${1:selector}${2:, ${3:options}})
 ]]></content>
 	<tabTrigger>findOne</tabTrigger>
-	<scope>source.coffee</scope>
+	<snippet>
+<scope>source.coffee, source.litcoffee</scope>
 	<description>Meteor: collection.findOne(selector, [options])</description>
 </snippet>

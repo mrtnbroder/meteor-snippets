@@ -5,6 +5,7 @@ Deps.nonreactive ${1:() ->
 }
 ]]></content>
 	<tabTrigger>Deps.nonreactive</tabTrigger>
-	<scope>source.coffee</scope>
+	<snippet>
+<scope>source.coffee, source.litcoffee</scope>
 	<description>Meteor: Deps.nonreactive(fn)</description>
 </snippet>

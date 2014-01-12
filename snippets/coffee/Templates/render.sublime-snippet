@@ -4,6 +4,7 @@ Meteor.render ($1) ->
 	${2:# ...}
 ]]></content>
 	<tabTrigger>Meteor.render</tabTrigger>
-	<scope>source.coffee</scope>
+	<snippet>
+<scope>source.coffee, source.litcoffee</scope>
 	<description>Meteor.render(htmlFunc)</description>
 </snippet>

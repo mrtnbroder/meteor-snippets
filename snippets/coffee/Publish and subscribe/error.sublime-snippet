@@ -3,6 +3,7 @@
 error ${1:error}
 ]]></content>
 	<tabTrigger>error</tabTrigger>
-	<scope>source.coffee</scope>
+	<snippet>
+<scope>source.coffee, source.litcoffee</scope>
 	<description>Meteor: this.error(error)</description>
 </snippet>

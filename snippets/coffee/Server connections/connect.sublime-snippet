@@ -3,6 +3,7 @@
 DDP.connect ${1:url}
 ]]></content>
 	<tabTrigger>DDP.connect</tabTrigger>
-	<scope>source.coffee</scope>
+	<snippet>
+<scope>source.coffee, source.litcoffee</scope>
 	<description>DDP.connect(url)</description>
 </snippet>

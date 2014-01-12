@@ -3,6 +3,7 @@
 hasDependents($1)
 ]]></content>
 	<tabTrigger>hasDependents</tabTrigger>
-	<scope>source.coffee</scope>
+	<snippet>
+<scope>source.coffee, source.litcoffee</scope>
 	<description>Meteor: dependency.hasDependents()</description>
 </snippet>

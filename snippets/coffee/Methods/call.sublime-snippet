@@ -3,6 +3,7 @@
 Meteor.call '${1:name}', ${2:1}${3:, (error, result) -> $4
 ]]></content>
 	<tabTrigger>Meteor.call</tabTrigger>
-	<scope>source.coffee</scope>
+	<snippet>
+<scope>source.coffee, source.litcoffee</scope>
 	<description>Meteor.call(name, param1, param2, ... [, asyncCallback])</description>
 </snippet>

@@ -3,6 +3,7 @@
 Meteor.clearTimeout ${1:id}
 ]]></content>
 	<tabTrigger>Meteor.clearTimeout</tabTrigger>
-	<scope>source.coffee</scope>
+	<snippet>
+<scope>source.coffee, source.litcoffee</scope>
 	<description>Meteor.clearTimeout(id)</description>
 </snippet>

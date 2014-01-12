@@ -3,6 +3,7 @@
 invalidate()
 ]]></content>
 	<tabTrigger>invalidate</tabTrigger>
-	<scope>source.coffee</scope>
+	<snippet>
+<scope>source.coffee, source.litcoffee</scope>
 	<description>Meteor: computation.invalidate()</description>
 </snippet>

@@ -3,6 +3,7 @@
 findAll '${1:div}'
 ]]></content>
 	<tabTrigger>findAll</tabTrigger>
-	<scope>source.coffee</scope>
+	<snippet>
+<scope>source.coffee, source.litcoffee</scope>
 	<description>Meteor: this.findAll(selector)</description>
 </snippet>

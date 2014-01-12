@@ -3,6 +3,7 @@
 addType ${1:name}, ${2:factory}
 ]]></content>
 	<tabTrigger>addType</tabTrigger>
-	<scope>source.coffee</scope>
+	<snippet>
+<scope>source.coffee, source.litcoffee</scope>
 	<description>Meteor: EJSON.addType(name, factory)</description>
 </snippet>

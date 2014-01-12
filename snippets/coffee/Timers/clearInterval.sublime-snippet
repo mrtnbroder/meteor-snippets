@@ -3,6 +3,7 @@
 Meteor.clearInterval ${1:id}
 ]]></content>
 	<tabTrigger>Meteor.clearInterval</tabTrigger>
-	<scope>source.coffee</scope>
+	<snippet>
+<scope>source.coffee, source.litcoffee</scope>
 	<description>Meteor.clearInterval(id)</description>
 </snippet>

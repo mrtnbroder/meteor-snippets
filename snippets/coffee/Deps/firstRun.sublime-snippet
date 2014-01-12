@@ -3,6 +3,7 @@
 firstRun
 ]]></content>
 	<tabTrigger>firstRun</tabTrigger>
-	<scope>source.coffee</scope>
+	<snippet>
+<scope>source.coffee, source.litcoffee</scope>
 	<description>Meteor: computation.firstRun</description>
 </snippet>

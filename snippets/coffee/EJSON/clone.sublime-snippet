@@ -3,6 +3,7 @@
 clone ${1:val}
 ]]></content>
 	<tabTrigger>clone</tabTrigger>
-	<scope>source.coffee</scope>
+	<snippet>
+<scope>source.coffee, source.litcoffee</scope>
 	<description>Meteor: EJSON.clone(val)</description>
 </snippet>

@@ -7,6 +7,7 @@ Meteor.loginWithFacebook
 		${2:alert 'Error'}
 ]]></content>
 	<tabTrigger>Meteor.loginWithFacebook</tabTrigger>
-	<scope>source.coffee</scope>
+	<snippet>
+<scope>source.coffee, source.litcoffee</scope>
 	<description>Meteor.loginWithFacebook([options], [callback])</description>
 </snippet>

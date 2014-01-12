@@ -3,6 +3,7 @@
 lastNode
 ]]></content>
 	<tabTrigger>lastNode</tabTrigger>
-	<scope>source.coffee</scope>
+	<snippet>
+<scope>source.coffee, source.litcoffee</scope>
 	<description>Meteor: this.lastNode</description>
 </snippet>

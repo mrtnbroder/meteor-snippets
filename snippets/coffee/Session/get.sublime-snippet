@@ -3,6 +3,7 @@
 Session.get ${1:key}
 ]]></content>
 	<tabTrigger>Session.get</tabTrigger>
-	<scope>source.coffee</scope>
+	<snippet>
+<scope>source.coffee, source.litcoffee</scope>
 	<description>Meteor: Session.get(key)</description>
 </snippet>

@@ -5,6 +5,7 @@ Deps.onInvalidate ${1:() ->
 }
 ]]></content>
 	<tabTrigger>Deps.onInvalidate</tabTrigger>
-	<scope>source.coffee</scope>
+	<snippet>
+<scope>source.coffee, source.litcoffee</scope>
 	<description>Meteor: Deps.onInvalidate(callback)</description>
 </snippet>

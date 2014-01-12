@@ -5,6 +5,7 @@ Deps.afterFlush ${1:() ->
 }
 ]]></content>
 	<tabTrigger>Deps.afterFlush</tabTrigger>
-	<scope>source.coffee</scope>
+	<snippet>
+<scope>source.coffee, source.litcoffee</scope>
 	<description>Meteor: Deps.afterFlush(callback)</description>
 </snippet>

@@ -3,6 +3,7 @@
 Meteor.renderList $1
 ]]></content>
 	<tabTrigger>Meteor.renderList</tabTrigger>
-	<scope>source.coffee</scope>
+	<snippet>
+<scope>source.coffee, source.litcoffee</scope>
 	<description>Meteor.renderList(observable, docFunc, [elseFunc])</description>
 </snippet>
