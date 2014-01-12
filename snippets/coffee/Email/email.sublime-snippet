@@ -8,7 +8,6 @@ Email.send ${1:
 }
 ]]></content>
 	<tabTrigger>Email</tabTrigger>
-	<snippet>
-<scope>source.coffee, source.litcoffee</scope>
+	<scope>source.coffee, source.litcoffee</scope>
 	<description>Meteor: Email.send(options)</description>
 </snippet>

@@ -3,7 +3,6 @@
 data
 ]]></content>
 	<tabTrigger>data</tabTrigger>
-	<snippet>
-<scope>source.coffee, source.litcoffee</scope>
+	<scope>source.coffee, source.litcoffee</scope>
 	<description>Meteor: this.data</description>
 </snippet>

@@ -5,7 +5,6 @@ Accounts.verifyEmail ${1:token}${2:, (error) ->
 }
 ]]></content>
 	<tabTrigger>Accounts.verifyEmail</tabTrigger>
-	<snippet>
-<scope>source.coffee, source.litcoffee</scope>
+	<scope>source.coffee, source.litcoffee</scope>
 	<description>Meteor: Accounts.verifyEmail(token, [callback])</description>
 </snippet>

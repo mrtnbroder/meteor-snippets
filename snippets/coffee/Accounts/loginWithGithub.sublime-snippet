@@ -7,7 +7,6 @@ Meteor.loginWithGithub
 		${2:alert 'Error'}
 ]]></content>
 	<tabTrigger>Meteor.loginWithGithub</tabTrigger>
-	<snippet>
-<scope>source.coffee, source.litcoffee</scope>
+	<scope>source.coffee, source.litcoffee</scope>
 	<description>Meteor.loginWithGithub([options], [callback])</description>
 </snippet>

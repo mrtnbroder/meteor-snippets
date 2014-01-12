@@ -3,7 +3,6 @@
 depend($1)
 ]]></content>
 	<tabTrigger>depend</tabTrigger>
-	<snippet>
-<scope>source.coffee, source.litcoffee</scope>
+	<scope>source.coffee, source.litcoffee</scope>
 	<description>Meteor: dependency.depend([fromComputation])</description>
 </snippet>

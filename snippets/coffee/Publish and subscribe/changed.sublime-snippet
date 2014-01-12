@@ -3,7 +3,6 @@
 changed '${1:collection}', ${2:id}, ${3:fields}
 ]]></content>
 	<tabTrigger>changed</tabTrigger>
-	<snippet>
-<scope>source.coffee, source.litcoffee</scope>
+	<scope>source.coffee, source.litcoffee</scope>
 	<description>Meteor: this.changed(collection, id, fields)</description>
 </snippet>

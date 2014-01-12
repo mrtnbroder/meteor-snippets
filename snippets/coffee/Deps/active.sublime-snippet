@@ -3,7 +3,6 @@
 Deps.active
 ]]></content>
 	<tabTrigger>Deps.active</tabTrigger>
-	<snippet>
-<scope>source.coffee, source.litcoffee</scope>
+	<scope>source.coffee, source.litcoffee</scope>
 	<description>Meteor: Deps.active</description>
 </snippet>

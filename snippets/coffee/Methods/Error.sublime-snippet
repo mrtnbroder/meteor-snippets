@@ -3,7 +3,6 @@
 Meteor.Error ${1:404}, '${2:Error 404: Not found}'${3:, ${4:details}}
 ]]></content>
 	<tabTrigger>Error</tabTrigger>
-	<snippet>
-<scope>source.coffee, source.litcoffee</scope>
+	<scope>source.coffee, source.litcoffee</scope>
 	<description>new Meteor.Error(error, reason, details)</description>
 </snippet>

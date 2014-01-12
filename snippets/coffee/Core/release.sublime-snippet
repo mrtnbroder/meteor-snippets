@@ -3,7 +3,6 @@
 Meteor.release
 ]]></content>
 	<tabTrigger>Meteor.release</tabTrigger>
-	<snippet>
-<scope>source.coffee, source.litcoffee</scope>
+	<scope>source.coffee, source.litcoffee</scope>
 	<description>Meteor.release</description>
 </snippet>

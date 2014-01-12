@@ -3,7 +3,6 @@
 Deps.flush()
 ]]></content>
 	<tabTrigger>Deps.flush</tabTrigger>
-	<snippet>
-<scope>source.coffee, source.litcoffee</scope>
+	<scope>source.coffee, source.litcoffee</scope>
 	<description>Meteor: Deps.flush()</description>
 </snippet>

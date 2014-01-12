@@ -3,7 +3,6 @@
 added '${1:collection}', ${2:id}, ${3:fields}
 ]]></content>
 	<tabTrigger>added</tabTrigger>
-	<snippet>
-<scope>source.coffee, source.litcoffee</scope>
+	<scope>source.coffee, source.litcoffee</scope>
 	<description>Meteor: this.added(collection, id, fields)</description>
 </snippet>

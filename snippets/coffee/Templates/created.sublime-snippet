@@ -4,7 +4,6 @@ created = ($1) ->
 	${2:# ...}
 ]]></content>
 	<tabTrigger>created</tabTrigger>
-	<snippet>
-<scope>source.coffee, source.litcoffee</scope>
+	<scope>source.coffee, source.litcoffee</scope>
 	<description>Meteor: Template.myTemplate.created = function ( ) { ... }</description>
 </snippet>

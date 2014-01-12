@@ -3,7 +3,6 @@
 stop()
 ]]></content>
 	<tabTrigger>stop</tabTrigger>
-	<snippet>
-<scope>source.coffee, source.litcoffee</scope>
+	<scope>source.coffee, source.litcoffee</scope>
 	<description>Meteor: this.stop()</description>
 </snippet>

@@ -19,7 +19,6 @@ observeChanges ${1:${2:
 }
 ]]></content>
 	<tabTrigger>observeChanges</tabTrigger>
-	<snippet>
-<scope>source.coffee, source.litcoffee</scope>
+	<scope>source.coffee, source.litcoffee</scope>
 	<description>Meteor: cursor.observeChanges(callbacks)</description>
 </snippet>

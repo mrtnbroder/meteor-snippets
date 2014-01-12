@@ -3,7 +3,6 @@
 removed '${1:collection}', ${2:id}
 ]]></content>
 	<tabTrigger>removed</tabTrigger>
-	<snippet>
-<scope>source.coffee, source.litcoffee</scope>
+	<scope>source.coffee, source.litcoffee</scope>
 	<description>Meteor: this.removed(collection, id)</description>
 </snippet>

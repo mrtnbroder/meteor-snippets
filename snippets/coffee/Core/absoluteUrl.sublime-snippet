@@ -3,7 +3,6 @@
 Meteor.absoluteUrl '${1:path}'${2:, ${3:options}}
 ]]></content>
 	<tabTrigger>Meteor.absoluteUrl</tabTrigger>
-	<snippet>
-<scope>source.coffee, source.litcoffee</scope>
+	<scope>source.coffee, source.litcoffee</scope>
 	<description>Meteor.absoluteUrl([path], [options])</description>
 </snippet>

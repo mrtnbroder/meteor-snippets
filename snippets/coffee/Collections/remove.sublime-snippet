@@ -3,7 +3,6 @@
 remove(${1:selector}${2:, ${3:callback}})
 ]]></content>
 	<tabTrigger>remove</tabTrigger>
-	<snippet>
-<scope>source.coffee, source.litcoffee</scope>
+	<scope>source.coffee, source.litcoffee</scope>
 	<description>Meteor: collection.remove(selector, [callback])</description>
 </snippet>

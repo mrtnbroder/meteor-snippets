@@ -7,7 +7,6 @@ Meteor.loginWithMeetup
 		${2:alert 'Error'}
 ]]></content>
 	<tabTrigger>Meteor.loginWithMeetup</tabTrigger>
-	<snippet>
-<scope>source.coffee, source.litcoffee</scope>
+	<scope>source.coffee, source.litcoffee</scope>
 	<description>Meteor.loginWithMeetup([options], [callback])</description>
 </snippet>

@@ -4,7 +4,6 @@ Accounts.onCreateUser (${1:options, user}) ->
 	${2:# ...}
 ]]></content>
 	<tabTrigger>Accounts.onCreateUser</tabTrigger>
-	<snippet>
-<scope>source.coffee, source.litcoffee</scope>
+	<scope>source.coffee, source.litcoffee</scope>
 	<description>Meteor: Accounts.onCreateUser(fn)</description>
 </snippet>

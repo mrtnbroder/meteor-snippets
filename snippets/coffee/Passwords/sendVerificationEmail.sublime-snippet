@@ -3,7 +3,6 @@
 Accounts.sendVerificationEmail ${1:userId}${2:, ${3:email}}
 ]]></content>
 	<tabTrigger>Accounts.sendVerificationEmail</tabTrigger>
-	<snippet>
-<scope>source.coffee, source.litcoffee</scope>
+	<scope>source.coffee, source.litcoffee</scope>
 	<description>Meteor: Accounts.sendVerificationEmail(userId, [email])</description>
 </snippet>

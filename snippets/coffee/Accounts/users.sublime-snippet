@@ -3,7 +3,6 @@
 Meteor.users
 ]]></content>
 	<tabTrigger>Meteor.users</tabTrigger>
-	<snippet>
-<scope>source.coffee, source.litcoffee</scope>
+	<scope>source.coffee, source.litcoffee</scope>
 	<description>Meteor.users</description>
 </snippet>

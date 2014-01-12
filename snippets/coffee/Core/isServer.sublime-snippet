@@ -3,7 +3,6 @@
 Meteor.isServer
 ]]></content>
 	<tabTrigger>Meteor.isServer</tabTrigger>
-	<snippet>
-<scope>source.coffee, source.litcoffee</scope>
+	<scope>source.coffee, source.litcoffee</scope>
 	<description>Meteor.isServer</description>
 </snippet>
