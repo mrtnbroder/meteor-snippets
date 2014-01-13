@@ -3,6 +3,6 @@
 isBinary ${1:x}
 ]]></content>
 	<tabTrigger>isBinary</tabTrigger>
-	<scope>source.coffee</scope>
+	<scope>source.coffee, source.litcoffee</scope>
 	<description>Meteor: EJSON.isBinary(x)</description>
 </snippet>

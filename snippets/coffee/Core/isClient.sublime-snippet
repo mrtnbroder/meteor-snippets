@@ -3,6 +3,6 @@
 Meteor.isClient
 ]]></content>
 	<tabTrigger>Meteor.isClient</tabTrigger>
-	<scope>source.coffee</scope>
+	<scope>source.coffee, source.litcoffee</scope>
 	<description>Meteor.isClient</description>
 </snippet>

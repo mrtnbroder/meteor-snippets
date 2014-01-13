@@ -3,6 +3,6 @@
 Meteor.user()
 ]]></content>
 	<tabTrigger>Meteor.user</tabTrigger>
-	<scope>source.coffee</scope>
+	<scope>source.coffee, source.litcoffee</scope>
 	<description>Meteor.user()</description>
 </snippet>

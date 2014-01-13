@@ -4,6 +4,6 @@ rendered = ($1) ->
 	${2:# ...}
 ]]></content>
 	<tabTrigger>rendered</tabTrigger>
-	<scope>source.coffee</scope>
+	<scope>source.coffee, source.litcoffee</scope>
 	<description>Meteor: Template.myTemplate.rendered = function ( ) { ... }</description>
 </snippet>

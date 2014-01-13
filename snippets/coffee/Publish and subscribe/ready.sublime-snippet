@@ -3,6 +3,6 @@
 ready()
 ]]></content>
 	<tabTrigger>ready</tabTrigger>
-	<scope>source.coffee</scope>
+	<scope>source.coffee, source.litcoffee</scope>
 	<description>Meteor: this.ready()</description>
 </snippet>

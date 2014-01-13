@@ -3,6 +3,6 @@
 toJSONValue ${1:val}
 ]]></content>
 	<tabTrigger>toJSONValue</tabTrigger>
-	<scope>source.coffee</scope>
+	<scope>source.coffee, source.litcoffee</scope>
 	<description>Meteor: EJSON.toJSONValue(val)</description>
 </snippet>

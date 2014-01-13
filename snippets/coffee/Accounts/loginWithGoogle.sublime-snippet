@@ -7,6 +7,6 @@ Meteor.loginWithGoogle
 		${2:alert 'Error'}
 ]]></content>
 	<tabTrigger>Meteor.loginWithGoogle</tabTrigger>
-	<scope>source.coffee</scope>
+	<scope>source.coffee, source.litcoffee</scope>
 	<description>Meteor.loginWithGoogle([options], [callback])</description>
 </snippet>

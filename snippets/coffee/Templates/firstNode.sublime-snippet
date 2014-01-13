@@ -3,6 +3,6 @@
 firstNode
 ]]></content>
 	<tabTrigger>firstNode</tabTrigger>
-	<scope>source.coffee</scope>
+	<scope>source.coffee, source.litcoffee</scope>
 	<description>Meteor: this.firstNode</description>
 </snippet>

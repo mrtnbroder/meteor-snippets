@@ -3,6 +3,6 @@
 stringify ${1:val}
 ]]></content>
 	<tabTrigger>stringify</tabTrigger>
-	<scope>source.coffee</scope>
+	<scope>source.coffee, source.litcoffee</scope>
 	<description>Meteor: EJSON.stringify(val)</description>
 </snippet>

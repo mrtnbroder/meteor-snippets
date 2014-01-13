@@ -3,6 +3,6 @@
 changed()
 ]]></content>
 	<tabTrigger>changed</tabTrigger>
-	<scope>source.coffee</scope>
+	<scope>source.coffee, source.litcoffee</scope>
 	<description>Meteor: dependency.changed()</description>
 </snippet>

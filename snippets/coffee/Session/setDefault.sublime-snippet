@@ -3,6 +3,6 @@
 Session.setDefault ${1:key}, ${2:value}
 ]]></content>
 	<tabTrigger>Session.setDefault</tabTrigger>
-	<scope>source.coffee</scope>
+	<scope>source.coffee, source.litcoffee</scope>
 	<description>Meteor: Session.setDefault(key, value)</description>
 </snippet>

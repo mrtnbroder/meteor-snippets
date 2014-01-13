@@ -11,6 +11,6 @@ Accounts.ui.config ${1:${2:
 }
 ]]></content>
 	<tabTrigger>Accounts.ui</tabTrigger>
-	<scope>source.coffee</scope>
+	<scope>source.coffee, source.litcoffee</scope>
 	<description>Meteor: Accounts.ui.config(options)</description>
 </snippet>

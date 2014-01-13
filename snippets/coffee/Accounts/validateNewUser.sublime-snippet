@@ -4,6 +4,6 @@ Accounts.validateNewUser (${1:user}) ->
 	${2:user.username isnt 'root' # ...}
 ]]></content>
 	<tabTrigger>Accounts.validateNewUser</tabTrigger>
-	<scope>source.coffee</scope>
+	<scope>source.coffee, source.litcoffee</scope>
 	<description>Meteor: Accounts.validateNewUser(fn)</description>
 </snippet>

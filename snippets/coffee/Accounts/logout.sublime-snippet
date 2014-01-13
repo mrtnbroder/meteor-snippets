@@ -3,6 +3,6 @@
 Meteor.logout(${1:callback})
 ]]></content>
 	<tabTrigger>Meteor.logout</tabTrigger>
-	<scope>source.coffee</scope>
+	<scope>source.coffee, source.litcoffee</scope>
 	<description>Meteor.logout([callback])</description>
 </snippet>

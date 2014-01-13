@@ -3,6 +3,6 @@
 Match.test ${1:value}, ${2:pattern}
 ]]></content>
 	<tabTrigger>Match.test</tabTrigger>
-	<scope>source.coffee</scope>
+	<scope>source.coffee, source.litcoffee</scope>
 	<description>Meteor: Match.test(value, pattern)</description>
 </snippet>

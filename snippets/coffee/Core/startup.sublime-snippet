@@ -4,6 +4,6 @@ Meteor.startup ($1) ->
 	${2:# ...}
 ]]></content>
 	<tabTrigger>Meteor.startup</tabTrigger>
-	<scope>source.coffee</scope>
+	<scope>source.coffee, source.litcoffee</scope>
 	<description>Meteor.startup(fn)</description>
 </snippet>

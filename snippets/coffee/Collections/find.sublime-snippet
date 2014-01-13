@@ -3,6 +3,6 @@
 find(${1:selector}${2:, ${3:options}})
 ]]></content>
 	<tabTrigger>find</tabTrigger>
-	<scope>source.coffee</scope>
+	<scope>source.coffee, source.litcoffee</scope>
 	<description>Meteor: collection.find(selector, [options])</description>
 </snippet>

@@ -3,6 +3,6 @@
 Meteor.Collection.ObjectID ${1:hexString}
 ]]></content>
 	<tabTrigger>Meteor.Collection</tabTrigger>
-	<scope>source.coffee</scope>
+	<scope>source.coffee, source.litcoffee</scope>
 	<description>new Meteor.Collection.ObjectID(hexString)</description>
 </snippet>

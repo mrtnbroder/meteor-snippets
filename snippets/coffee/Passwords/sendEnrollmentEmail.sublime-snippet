@@ -3,6 +3,6 @@
 Accounts.sendEnrollmentEmail ${1:userId}${2:, ${3:email}}
 ]]></content>
 	<tabTrigger>Accounts.sendEnrollmentEmail</tabTrigger>
-	<scope>source.coffee</scope>
+	<scope>source.coffee, source.litcoffee</scope>
 	<description>Meteor: Accounts.sendEnrollmentEmail(userId, [email])</description>
 </snippet>

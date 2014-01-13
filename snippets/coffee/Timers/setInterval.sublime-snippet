@@ -5,6 +5,6 @@ Meteor.setInterval ${1:($2) ->
 }, ${4:delay}
 ]]></content>
 	<tabTrigger>Meteor.setInterval</tabTrigger>
-	<scope>source.coffee</scope>
+	<scope>source.coffee, source.litcoffee</scope>
 	<description>Meteor.setInterval(fn, delay)</description>
 </snippet>

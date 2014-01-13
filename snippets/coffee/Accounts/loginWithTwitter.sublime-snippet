@@ -7,6 +7,6 @@ Meteor.loginWithTwitter
 		${2:alert 'Error'}
 ]]></content>
 	<tabTrigger>Meteor.loginWithTwitter</tabTrigger>
-	<scope>source.coffee</scope>
+	<scope>source.coffee, source.litcoffee</scope>
 	<description>Meteor.loginWithTwitter([options], [callback])</description>
 </snippet>

@@ -3,6 +3,6 @@
 fetch()
 ]]></content>
 	<tabTrigger>fetch</tabTrigger>
-	<scope>source.coffee</scope>
+	<scope>source.coffee, source.litcoffee</scope>
 	<description>Meteor: cursor.fetch()</description>
 </snippet>

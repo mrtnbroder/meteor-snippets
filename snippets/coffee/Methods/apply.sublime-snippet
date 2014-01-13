@@ -3,6 +3,6 @@
 Meteor.apply '${1:name}', [$2]${3:, (error, result) -> $4}
 ]]></content>
 	<tabTrigger>Meteor.apply</tabTrigger>
-	<scope>source.coffee</scope>
+	<scope>source.coffee, source.litcoffee</scope>
 	<description>Meteor.apply(name, params [, options] [, asyncCallback])</description>
 </snippet>

@@ -5,6 +5,6 @@ Meteor.methods
 		${3:# ...}
 ]]></content>
 	<tabTrigger>Meteor.methods</tabTrigger>
-	<scope>source.coffee</scope>
+	<scope>source.coffee, source.litcoffee</scope>
 	<description>Meteor.methods(methods)</description>
 </snippet>

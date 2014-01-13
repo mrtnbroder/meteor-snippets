@@ -4,6 +4,6 @@ map (${1:post}) ->
 	${2:# ...}
 ]]></content>
 	<tabTrigger>map</tabTrigger>
-	<scope>source.coffee</scope>
+	<scope>source.coffee, source.litcoffee</scope>
 	<description>Meteor: cursor.map(callback)</description>
 </snippet>

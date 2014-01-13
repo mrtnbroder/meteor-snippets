@@ -3,6 +3,6 @@
 parse ${1:str}
 ]]></content>
 	<tabTrigger>parse</tabTrigger>
-	<scope>source.coffee</scope>
+	<scope>source.coffee, source.litcoffee</scope>
 	<description>Meteor: EJSON.parse(str)</description>
 </snippet>

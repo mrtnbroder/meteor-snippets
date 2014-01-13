@@ -3,6 +3,6 @@
 setUserId $1
 ]]></content>
 	<tabTrigger>setUserId</tabTrigger>
-	<scope>source.coffee</scope>
+	<scope>source.coffee, source.litcoffee</scope>
 	<description>Meteor: this.setUserId(userId)</description>
 </snippet>

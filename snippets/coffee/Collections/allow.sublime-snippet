@@ -13,6 +13,6 @@ allow
 	}
 ]]></content>
 	<tabTrigger>allow</tabTrigger>
-	<scope>source.coffee</scope>
+	<scope>source.coffee, source.litcoffee</scope>
 	<description>Meteor: collection.allow(options)</description>
 </snippet>

@@ -5,6 +5,6 @@ helpers
 		${3:# ...}
 ]]></content>
 	<tabTrigger>helpers</tabTrigger>
-	<scope>source.coffee</scope>
+	<scope>source.coffee, source.litcoffee</scope>
 	<description>Meteor: Template.myTemplate.helpers(helpers)</description>
 </snippet>
