@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-Deps.active
+Tracker.active
 ]]></content>
 	<tabTrigger>Deps.active</tabTrigger>
 	<scope>source.js</scope>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-Deps.afterFlush(${1:function () {
+Tracker.afterFlush(${1:function () {
 	${2:// callback}
 \}});
 ]]></content>

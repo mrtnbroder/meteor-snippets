@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-Meteor.Collection.ObjectID(${1:hexString});
+Mongo.Collection.ObjectID(${1:hexString});
 ]]></content>
 	<tabTrigger>Meteor.Collection</tabTrigger>
 	<scope>source.js</scope>

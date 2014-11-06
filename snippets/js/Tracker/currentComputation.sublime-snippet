@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-Deps.currentComputation
+Tracker.currentComputation
 ]]></content>
 	<tabTrigger>Deps.currentComputation</tabTrigger>
 	<scope>source.js</scope>

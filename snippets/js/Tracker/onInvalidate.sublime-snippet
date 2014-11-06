@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-Deps.onInvalidate(${1:function () {
+Tracker.onInvalidate(${1:function () {
 	${2:// callback}
 \}});
 ]]></content>
