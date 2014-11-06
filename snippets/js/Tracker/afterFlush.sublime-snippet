@@ -4,7 +4,7 @@ Tracker.afterFlush(${1:function () {
 	${2:// callback}
 \}});
 ]]></content>
-	<tabTrigger>Deps.afterFlush</tabTrigger>
+	<tabTrigger>Tracker.afterFlush</tabTrigger>
 	<scope>source.js</scope>
-	<description>Meteor: Deps.afterFlush(callback)</description>
+	<description>Meteor: Tracker.afterFlush(callback)</description>
 </snippet>

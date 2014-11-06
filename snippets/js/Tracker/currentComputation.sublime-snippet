@@ -2,7 +2,7 @@
 	<content><![CDATA[
 Tracker.currentComputation
 ]]></content>
-	<tabTrigger>Deps.currentComputation</tabTrigger>
+	<tabTrigger>Tracker.currentComputation</tabTrigger>
 	<scope>source.js</scope>
-	<description>Meteor: Deps.currentComputation</description>
+	<description>Meteor: Tracker.currentComputation</description>
 </snippet>

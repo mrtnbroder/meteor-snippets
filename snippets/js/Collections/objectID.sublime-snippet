@@ -2,7 +2,7 @@
 	<content><![CDATA[
 Mongo.Collection.ObjectID(${1:hexString});
 ]]></content>
-	<tabTrigger>Meteor.Collection</tabTrigger>
+	<tabTrigger>Mongo.Collection</tabTrigger>
 	<scope>source.js</scope>
-	<description>new Meteor.Collection.ObjectID(hexString)</description>
+	<description>new Mongo.Collection.ObjectID(hexString)</description>
 </snippet>

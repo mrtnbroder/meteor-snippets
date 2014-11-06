@@ -4,7 +4,7 @@ Tracker.autorun(${1:function () {
 	${2:// ...}
 \}});
 ]]></content>
-	<tabTrigger>Deps.autorun</tabTrigger>
+	<tabTrigger>Tracker.autorun</tabTrigger>
 	<scope>source.js</scope>
-	<description>Meteor: Deps.autorun(runFunc)</description>
+	<description>Meteor: Tracker.autorun(runFunc)</description>
 </snippet>

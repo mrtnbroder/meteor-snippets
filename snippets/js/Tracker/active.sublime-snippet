@@ -2,7 +2,7 @@
 	<content><![CDATA[
 Tracker.active
 ]]></content>
-	<tabTrigger>Deps.active</tabTrigger>
+	<tabTrigger>Tracker.active</tabTrigger>
 	<scope>source.js</scope>
-	<description>Meteor: Deps.active</description>
+	<description>Meteor: Tracker.active</description>
 </snippet>

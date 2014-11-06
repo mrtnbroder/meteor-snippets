@@ -4,7 +4,7 @@ Tracker.nonreactive(${1:function () {
 	${2:// ...}
 \}});
 ]]></content>
-	<tabTrigger>Deps.nonreactive</tabTrigger>
+	<tabTrigger>Tracker.nonreactive</tabTrigger>
 	<scope>source.js</scope>
-	<description>Meteor: Deps.nonreactive(fn)</description>
+	<description>Meteor: Tracker.nonreactive(fn)</description>
 </snippet>

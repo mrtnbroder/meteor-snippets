@@ -2,7 +2,7 @@
 	<content><![CDATA[
 Tracker.flush();
 ]]></content>
-	<tabTrigger>Deps.flush</tabTrigger>
+	<tabTrigger>Tracker.flush</tabTrigger>
 	<scope>source.js</scope>
-	<description>Meteor: Deps.flush()</description>
+	<description>Meteor: Tracker.flush()</description>
 </snippet>

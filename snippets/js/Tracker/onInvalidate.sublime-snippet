@@ -4,7 +4,7 @@ Tracker.onInvalidate(${1:function () {
 	${2:// callback}
 \}});
 ]]></content>
-	<tabTrigger>Deps.onInvalidate</tabTrigger>
+	<tabTrigger>Tracker.onInvalidate</tabTrigger>
 	<scope>source.js</scope>
-	<description>Meteor: Deps.onInvalidate(callback)</description>
+	<description>Meteor: Tracker.onInvalidate(callback)</description>
 </snippet>
