@@ -18,15 +18,27 @@ You can install them now via [Package Control](http://wbond.net/sublime_packages
 git clone git://github.com/pcjpcj2/meteor-snippets.git ~/Library/Application Support/Sublime Text 2/Packages/Meteor Snippets
 ```
 ###### Sublime Text 3
+```
+git clone git://github.com/pcjpcj2/meteor-snippets.git ~/Library/Application Support/Sublime Text 3/Packages/Meteor Snippets
+```
+
 ##### Linux
 ###### Sublime Text 2
 ```
 git clone git://github.com/pcjpcj2/meteor-snippets.git ~/.config/sublime-text-2/Packages/Meteor Snippets
 ```
 ###### Sublime Text 3
+```
+git clone git://github.com/pcjpcj2/meteor-snippets.git ~/.config/sublime-text-3/Packages/Meteor Snippets
+```
 ##### Windows
+###### Sublime Text 2
 ```
 git clone git://github.com/pcjpcj2/meteor-snippets.git %userprofile%\AppData\Roaming\Sublime Text 2\Packages\Meteor Snippets
+```
+###### Sublime Text 3
+```
+git clone git://github.com/pcjpcj2/meteor-snippets.git %userprofile%\AppData\Roaming\Sublime Text 3\Packages\Meteor Snippets
 ```
 
 ## Examples
