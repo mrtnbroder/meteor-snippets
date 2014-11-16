@@ -1,6 +1,15 @@
 <snippet>
 	<content><![CDATA[
-Meteor.Error(${1:404}, '${2:Error 404: Not found}'${3:, ${4:details}});
+// On server
+throw new Meteor.Error(${1:404}, '${2:Error 404: Not found}'${3:, ${4:details}});
+// Cut and paste to client belows..
+Meteor.call(${5:"methodName"}, function (error) {
+  // identify the error
+  if (error.error === "$1") {
+    // show a nice error message
+    Session.set("${6:errorMessage}", "${7:Please log in to post a comment.}");
+  }
+});
 ]]></content>
 	<tabTrigger>Error</tabTrigger>
 	<scope>source.js</scope>
