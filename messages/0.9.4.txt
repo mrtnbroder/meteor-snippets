@@ -11,7 +11,7 @@ v0.9.4 Changelog:
 
 If you find any bugs please let me know at:
 
-https://github.com/pcjpcj2/meteor-snippets
+https://github.com/mrtnbroder/meteor-snippets
 
 Thank you! Have a nice day :).
 
