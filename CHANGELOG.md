@@ -1,5 +1,6 @@
 v0.9.4
-* Updated Snippets for Meteor v1.0
+* Updated Snippets for Meteor v1.0 (thanks to pcjpcj2).
+
 v0.9.3
 * Updated Snippets for Meteor v.0.6.5
 
