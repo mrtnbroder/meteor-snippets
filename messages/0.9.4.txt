@@ -13,6 +13,8 @@ If you find any bugs please let me know at:
 
 https://github.com/mrtnbroder/meteor-snippets
 
-Thank you! Have a nice day :).
+Credits go to https://github.com/pcjpcj2 for updating to v1.0 of Meteor.
+
+Thanks a lot!
 
 --------------------------------------------------------------------------------
