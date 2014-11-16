@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+Tracker.afterFlush(${1:function () {
+	${2:// callback}
+\}});
+]]></content>
+	<tabTrigger>Tracker.afterFlush</tabTrigger>
+	<scope>source.js</scope>
+	<description>Meteor: Tracker.afterFlush(callback)</description>
+</snippet>

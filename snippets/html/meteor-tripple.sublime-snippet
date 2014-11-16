@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+<div class="$1">
+  {{{ ${3: html snippets..} }}}
+</div>
+]]></content>
+  <tabTrigger>TrippleSnippet</tabTrigger>
+  <scope>text.html,text.htm</scope>
+  <description>Meteor Spacebars Tripple Bracket Tag</description>
+</snippet>

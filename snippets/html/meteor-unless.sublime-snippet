@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+  {{#unless $1 }}
+    $2
+  {{else}}
+    $3
+  {{/if}}
+]]></content>
+  <tabTrigger>unless</tabTrigger>
+  <scope>text.html,text.htm</scope>
+  <description>Meteor {{#unless}}</description>
+</snippet>

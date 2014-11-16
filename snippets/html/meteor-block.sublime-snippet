@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+{{#${1: blockName}}}
+  ${2:<p>Hello</p>}
+{{/$1}}
+]]></content>
+  <tabTrigger>block</tabTrigger>
+  <scope>text.html,text.htm</scope>
+  <description>Meteor block Spacebars</description>
+</snippet>

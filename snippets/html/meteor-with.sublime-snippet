@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+{{#with ${1:dataObj} }}
+  {{> ${2:templateName} }}
+{{/with}}
+]]></content>
+  <tabTrigger>with</tabTrigger>
+  <scope>text.html,text.htm</scope>
+  <description>Meteor With Inclusion Tag</description>
+</snippet>

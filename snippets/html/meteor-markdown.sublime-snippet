@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+{{#markdown}}
+  $1
+{{/markdown}}
+]]></content>
+  <tabTrigger>md</tabTrigger>
+  <scope>text.html,text.htm</scope>
+  <description>Meteor Markdown Spacebars</description>
+</snippet>

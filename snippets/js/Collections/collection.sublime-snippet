@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-Meteor.Collection('${1:bar}'${2:, ${3:options}});
+Mongo.Collection('${1:bar}'${2:, ${3:options}});
 ]]></content>
-	<tabTrigger>Meteor.Collection</tabTrigger>
+	<tabTrigger>Mongo.Collection</tabTrigger>
 	<scope>source.js</scope>
-	<description>new Meteor.Collection(name, [options])</description>
+	<description>new Mongo.Collection(name, [options])</description>
 </snippet>

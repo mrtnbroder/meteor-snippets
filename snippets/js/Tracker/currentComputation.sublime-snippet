@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Tracker.currentComputation
+]]></content>
+	<tabTrigger>Tracker.currentComputation</tabTrigger>
+	<scope>source.js</scope>
+	<description>Meteor: Tracker.currentComputation</description>
+</snippet>

@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+{{#if ${1:thisIs} "${2:It}"}}
+  ${3:...}
+{{else}}
+  ${4:...}
+{{/if}}
+]]></content>
+  <tabTrigger>ifelse</tabTrigger>
+  <scope>text.html,text.htm</scope>
+  <description>Meteor {{#if}} {{else}}</description>
+</snippet>

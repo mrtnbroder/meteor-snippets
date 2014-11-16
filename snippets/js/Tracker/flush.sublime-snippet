@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Tracker.flush();
+]]></content>
+	<tabTrigger>Tracker.flush</tabTrigger>
+	<scope>source.js</scope>
+	<description>Meteor: Tracker.flush()</description>
+</snippet>

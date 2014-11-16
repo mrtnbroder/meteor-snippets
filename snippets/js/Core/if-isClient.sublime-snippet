@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+if(Meteor.isClient){
+  $1
+}
+]]></content>
+  <tabTrigger>Meteor.isClient with if</tabTrigger>
+  <scope>source.js</scope>
+  <description>Meteor.isClient with if</description>
+</snippet>

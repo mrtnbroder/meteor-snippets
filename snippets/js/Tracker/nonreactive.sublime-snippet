@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+Tracker.nonreactive(${1:function () {
+	${2:// ...}
+\}});
+]]></content>
+	<tabTrigger>Tracker.nonreactive</tabTrigger>
+	<scope>source.js</scope>
+	<description>Meteor: Tracker.nonreactive(fn)</description>
+</snippet>

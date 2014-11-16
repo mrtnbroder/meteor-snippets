@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+Tracker.autorun(${1:function () {
+	${2:// ...}
+\}});
+]]></content>
+	<tabTrigger>Tracker.autorun</tabTrigger>
+	<scope>source.js</scope>
+	<description>Meteor: Tracker.autorun(runFunc)</description>
+</snippet>

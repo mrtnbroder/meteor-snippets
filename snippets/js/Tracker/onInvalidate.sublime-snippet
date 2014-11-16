@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+Tracker.onInvalidate(${1:function () {
+	${2:// callback}
+\}});
+]]></content>
+	<tabTrigger>Tracker.onInvalidate</tabTrigger>
+	<scope>source.js</scope>
+	<description>Meteor: Tracker.onInvalidate(callback)</description>
+</snippet>
