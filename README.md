@@ -13,32 +13,18 @@ Includes snippets for
 You can install them now via [Package Control](http://wbond.net/sublime_packages/package_control) (search for "Meteor Snippets") or manually via git:
 
 ##### OS X
-###### Sublime Text 2
 ```
-git clone git://github.com/pcjpcj2/meteor-snippets.git "~/Library/Application Support/Sublime Text 2/Packages/Meteor Snippets"
-```
-###### Sublime Text 3
-```
-git clone git://github.com/pcjpcj2/meteor-snippets.git "~/Library/Application Support/Sublime Text 3/Packages/Meteor Snippets"
+git clone git://github.com/mrtnbroder/meteor-snippets.git ~/Library/Application Support/Sublime Text 2/Packages/Meteor Snippets
 ```
 
 ##### Linux
-###### Sublime Text 2
 ```
-git clone git://github.com/pcjpcj2/meteor-snippets.git "~/.config/sublime-text-2/Packages/Meteor Snippets"
+git clone git://github.com/mrtnbroder/meteor-snippets.git ~/.config/sublime-text-2/Packages/Meteor Snippets
 ```
-###### Sublime Text 3
-```
-git clone git://github.com/pcjpcj2/meteor-snippets.git "~/.config/sublime-text-3/Packages/Meteor Snippets"
-```
+
 ##### Windows
-###### Sublime Text 2
 ```
-git clone git://github.com/pcjpcj2/meteor-snippets.git "%userprofile%\AppData\Roaming\Sublime Text 2\Packages\Meteor Snippets"
-```
-###### Sublime Text 3
-```
-git clone git://github.com/pcjpcj2/meteor-snippets.git "%userprofile%\AppData\Roaming\Sublime Text 3\Packages\Meteor Snippets"
+git clone git://github.com/mrtnbroder/meteor-snippets.git %userprofile%\AppData\Roaming\Sublime Text 2\Packages\Meteor Snippets
 ```
 
 ## Examples
