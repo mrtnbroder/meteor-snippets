@@ -14,17 +14,17 @@ You can install them now via [Package Control](http://wbond.net/sublime_packages
 
 ##### OS X
 ```
-git clone git://github.com/mrtnbroder/meteor-snippets.git ~/Library/Application Support/Sublime Text 2/Packages/Meteor Snippets
+git clone git://github.com/mrtnbroder/meteor-snippets.git "~/Library/Application Support/Sublime Text 2/Packages/Meteor Snippets"
 ```
 
 ##### Linux
 ```
-git clone git://github.com/mrtnbroder/meteor-snippets.git ~/.config/sublime-text-2/Packages/Meteor Snippets
+git clone git://github.com/mrtnbroder/meteor-snippets.git "~/.config/sublime-text-2/Packages/Meteor Snippets"
 ```
 
 ##### Windows
 ```
-git clone git://github.com/mrtnbroder/meteor-snippets.git %userprofile%\AppData\Roaming\Sublime Text 2\Packages\Meteor Snippets
+git clone git://github.com/mrtnbroder/meteor-snippets.git "%userprofile%\AppData\Roaming\Sublime Text 2\Packages\Meteor Snippets"
 ```
 
 ## Examples
