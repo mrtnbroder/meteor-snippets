@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+Template.${1:myTemplate}.onCreated(function() {
+  ${2}
+});
+]]></content>
+	<tabTrigger>toc</tabTrigger>
+	<scope>source.js</scope>
+	<description>Template.myTemplate.onCreated</description>
+</snippet>
