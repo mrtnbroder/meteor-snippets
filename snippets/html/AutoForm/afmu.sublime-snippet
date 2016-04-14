@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+{{#autoForm id="${1}" collection="${2}" type="method-update" meteormethod="${3}" doc=${4}}}
+	${5}
+{{/autoForm}}
+]]></content>
+	<tabTrigger>afmu</tabTrigger>
+	<scope>text.html,text.htm</scope>
+	<description>Meteor: autoForm (type="method-update")</description>
+</snippet>
