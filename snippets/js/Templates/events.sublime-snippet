@@ -1,12 +1,12 @@
 <snippet>
 	<content><![CDATA[
-events({
-	'${1:click}': function ($2) {
-		${3:// ...}
+Template.${1:myTemplate}.events({
+	'${2:click} ${3:selector}': function (event, template) {
+		${4:// ...}
 	}
 });
 ]]></content>
-	<tabTrigger>events</tabTrigger>
+	<tabTrigger>te</tabTrigger>
 	<scope>source.js</scope>
-	<description>Meteor: Template.myTemplate.events(eventMap)</description>
+	<description>Meteor Template.myTemplate.events</description>
 </snippet>
