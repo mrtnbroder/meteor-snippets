@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+Template.${1:myTemplate}.onDestroyed(function() {
+  ${2}
+});
+]]></content>
+	<tabTrigger>tod</tabTrigger>
+	<scope>source.js</scope>
+	<description>Template.myTemplate.onDestroyed</description>
+</snippet>
