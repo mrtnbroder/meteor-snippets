@@ -1,12 +1,12 @@
 <snippet>
 	<content><![CDATA[
-helpers({
-	${1:foo}: function ($2) {
+Template.${1:myTemplate}.helpers({
+	${2:helper}() {
 		${3:// ...}
 	}
 });
 ]]></content>
-	<tabTrigger>helpers</tabTrigger>
+	<tabTrigger>th</tabTrigger>
 	<scope>source.js</scope>
-	<description>Meteor: Template.myTemplate.helpers(helpers)</description>
+	<description>Meteor: Template.myTemplate.helpers</description>
 </snippet>
