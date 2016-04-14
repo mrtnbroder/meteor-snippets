@@ -1,10 +1,11 @@
 <snippet>
   <content><![CDATA[
-  {{#unless $1 }}
+  {{#unless $1:helper }}
     $2
+
   {{else}}
     $3
-  {{/if}}
+  {{/unless}}
 ]]></content>
   <tabTrigger>unless</tabTrigger>
   <scope>text.html,text.htm</scope>
