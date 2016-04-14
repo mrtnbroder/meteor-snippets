@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Template
+]]></content>
+	<tabTrigger>t</tabTrigger>
+	<scope>source.js</scope>
+	<description>Meteor: Template</description>
+</snippet>
